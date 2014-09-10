@@ -5,7 +5,7 @@ This project includes transit stations across the United States from 1970 - 2010
 ###[Station Distances](#station_distances)
 ###[Station Clusters](#station_clusters)
 ###[Tract City Distances](#tract_city_distances)
-* #####[Variables](#tract_city_distances_variables)
+* [Variables](#tract_city_distances_variables)
 
 ###[Project Projection Information](#project_projection_information)
 
