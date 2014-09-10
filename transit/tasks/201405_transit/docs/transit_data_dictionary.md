@@ -5,6 +5,8 @@ This project includes transit stations across the United States from 1970 - 2010
 ###[Station Distances](#station_distances)
 ###[Station Clusters](#station_clusters)
 ###[Tract City Distances](#tract_city_distances)
+* #####[Variables](#tract_city_distances_variables)
+
 ###[Project Projection Information](#project_projection_information)
 
 #####Count of Station Data by Year
@@ -282,7 +284,7 @@ In order for others to use the information in the Census MAF/TIGER database in a
 ###Metadata
 ######SummaryIn order for others to use the information in the Census MAF/TIGER database in a geographic information system (GIS) or for other geographic applications, the Census Bureau releases to the public extracts of the database in the form of TIGER/Line Shapefiles.######DescriptionThe TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Combined Statistical Areas (CSAs) are defined by the Office of Management and Budget (OMB) and consist of two or more adjacent Core Based Statistical Areas (CBSAs) that have significant employment interchanges. The CBSAs that combine to create a CSA retain separate identities within the larger CSA. Because CSAs represent groupings of CBSAs, they should not be ranked or compared with individual CBSAs. The CSA boundaries are those defined by OMB based on the 2010 Census and published in 2013.
 
-###Tract City Distances Variables
+####<a name="tract_city_distances_variables"></a>Tract City Distances Variables
 
 ####GEOID10	
 Census Tract 2010 unique identifier
