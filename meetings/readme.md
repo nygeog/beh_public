@@ -11,8 +11,14 @@
 
 ####MSM
 * have all of the vector analysis completed, ran the kernel densities this weekend. 
-* 
+* complete all the kernel density table operations, just need to run and slightly modify the code to compile all the tables into a master dataset and review the output before sending. 
 
+####NETS
+* created a NETS animation of modified healthy food outlets. 
+	* Here’s a smaller version. 
+https://www.dropbox.com/s/7vhcwkfruegp1e4/nets_modified_healthy_half.gif?dl=0
+	* And here’s a smaller one with a longer time period for each yearly snapshot. 
+https://www.dropbox.com/s/a7p09iwibft8sij/nets_modified_healthy_half_longer.gif?dl=0
 
 
 ##20141007
