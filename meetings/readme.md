@@ -15,6 +15,9 @@
 
 ####NETS
 * created a NETS animation of modified healthy food outlets. 
+	* This category includes supermarkets, fruit and veggie markets, natural food stores, and fish markets. This indicator of healthy food access was developed for a BMI analysis, and has been modified slightly to include nut stores and fish markets for a fatty acids focus - if SMK=1 or FVM=1 or NAT=1 or FSH=1' 
+	
+	
 	* Here’s a smaller version. 
 https://www.dropbox.com/s/7vhcwkfruegp1e4/nets_modified_healthy_half.gif?dl=0
 https://dl.dropboxusercontent.com/u/36281098/beh/nets/animation/nets_modified_healthy_half.gif
@@ -24,7 +27,7 @@ https://dl.dropboxusercontent.com/u/36281098/beh/nets/animation/nets_modified_he
 
 
 
-			This category includes supermarkets, fruit and veggie markets, natural food stores, and fish markets. This indicator of healthy food access was developed for a BMI analysis, and has been modified slightly to include nut stores and fish markets for a fatty acids focus - if SMK=1 or FVM=1 or NAT=1 or FSH=1'
+
 
 
 ##20141007
