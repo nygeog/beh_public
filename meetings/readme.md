@@ -9,6 +9,33 @@
 * I'm going to begin geocoding in next few weeks.
 * Kate will work on solidifying the list of GIS variables I'll be creating. 
 
+1) Danny maps the 45 pollen sites on top of aerial imagery, Kate checks for accuracy (done)
+
+2) Danny calculates a series of GIS variables for (a) the pollen sites and (b) a grid* across NYC. These variables are:
+	- Tree canopy (2010 layer)
+	- Building density
+	- Elevation
+	- Distance to nearest body of water
+	- Traffic density**
+
+The buffer sizes we will need for these variables are 0.05, 0.1, 0.25, 0.5, and 1-km radial buffers
+
+3) Kate develops land use regression model and kriged surface using the variables calculated by Danny in #2
+
+4) While Kate is working on the LUR and kriging, Danny geocodes the home and school addresses for NAAS subjects
+
+5) When Kate is done with the LUR and kriging, Danny calculates GIS variables around the NAAS subject addresses. These variables are:
+	- Population density (2000 and 2010 census)
+	- % poverty (2000 and 2010 census)
+	- Median household income (2000 and 2010 census)
+	- % park land
+	- Traffic volume***
+	- Black carbon and PM2.5 two-year averages from NYCCAS (Danny, Gina said you would have this data)
+
+The buffer sizes we will need are 0.25, 0.5, and 1-km radial buffers plus 1-km network buffers. 
+
+At this point we will also need to use the surface Kate develops to calculate pollen exposures for the NAAS addresses. 
+
 ####MSM
 * have all of the vector analysis completed, ran the kernel densities this weekend. 
 * complete all the kernel density table operations, just need to run and slightly modify the code to compile all the tables into a master dataset and review the output before sending. 
