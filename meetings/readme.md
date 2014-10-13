@@ -1,5 +1,20 @@
 #BEH Meeting
 
+##20141013
+
+###GIS
+####Tree Pollen
+* Received addresses from Kate Weinberger last week. 
+* Had a conference call about the variables to create for the project. 
+* I'm going to begin geocoding in next few weeks.
+* Kate will work on solidifying the list of GIS variables I'll be creating. 
+
+####MSM
+* have all of the vector analysis completed, ran the kernel densities this weekend. 
+* 
+
+
+
 ##20141007
 
 ###GIS
