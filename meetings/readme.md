@@ -17,10 +17,14 @@
 * created a NETS animation of modified healthy food outlets. 
 	* Here’s a smaller version. 
 https://www.dropbox.com/s/7vhcwkfruegp1e4/nets_modified_healthy_half.gif?dl=0
-https://dl.dropboxusercontent.com/u/36281098/beh/nets/animation/nets_modified_healthy_half.giff
+https://dl.dropboxusercontent.com/u/36281098/beh/nets/animation/nets_modified_healthy_half.gif
 	* And here’s a smaller one with a longer time period for each yearly snapshot. 
 https://www.dropbox.com/s/a7p09iwibft8sij/nets_modified_healthy_half_longer.gif?dl=0
 https://dl.dropboxusercontent.com/u/36281098/beh/nets/animation/nets_modified_healthy_half_longer.gif
+
+		Modified healthy food sources.
+		
+		This category includes supermarkets, fruit and veggie markets, natural food stores, and fish markets. This indicator of healthy food access was developed for a BMI analysis, and has been modified slightly to include nut stores and fish markets for a fatty acids focus - if SMK=1 or FVM=1 or NAT=1 or FSH=1'
 
 
 ##20141007
