@@ -17,8 +17,10 @@
 * created a NETS animation of modified healthy food outlets. 
 	* Here’s a smaller version. 
 https://www.dropbox.com/s/7vhcwkfruegp1e4/nets_modified_healthy_half.gif?dl=0
+https://dl.dropboxusercontent.com/u/36281098/beh/nets/animation/nets_modified_healthy_half.giff
 	* And here’s a smaller one with a longer time period for each yearly snapshot. 
 https://www.dropbox.com/s/a7p09iwibft8sij/nets_modified_healthy_half_longer.gif?dl=0
+https://dl.dropboxusercontent.com/u/36281098/beh/nets/animation/nets_modified_healthy_half_longer.gif
 
 
 ##20141007
