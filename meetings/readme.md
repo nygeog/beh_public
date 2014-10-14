@@ -3,28 +3,30 @@
 ##20141013
 
 ###GIS
-####Tree Pollen
+####Tree Pollen/New York City Neighborhood Asthma and Allergy Study (NYC NAAS)
 * Received addresses from Kate Weinberger last week. 
 * Had a conference call about the variables to create for the project. 
 * I'm going to begin geocoding in next few weeks.
 * Kate will work on solidifying the list of GIS variables I'll be creating. 
+	
+* #####Kate's Variables for NAAS
 
-1) Danny maps the 45 pollen sites on top of aerial imagery, Kate checks for accuracy (done)
+	* 1) Danny maps the 45 pollen sites on top of aerial imagery, Kate checks for accuracy (done)
 
-2) Danny calculates a series of GIS variables for (a) the pollen sites and (b) a grid* across NYC. These variables are:
+	* 2) Danny calculates a series of GIS variables for (a) the pollen sites and (b) a grid* across NYC. These variables are:
 	- Tree canopy (2010 layer)
 	- Building density
 	- Elevation
 	- Distance to nearest body of water
 	- Traffic density**
 
-The buffer sizes we will need for these variables are 0.05, 0.1, 0.25, 0.5, and 1-km radial buffers
+		The buffer sizes we will need for these variables are 0.05, 0.1, 0.25, 0.5, and 1-km radial buffers
 
-3) Kate develops land use regression model and kriged surface using the variables calculated by Danny in #2
+	* 3) Kate develops land use regression model and kriged surface using the variables calculated by Danny in #2
 
-4) While Kate is working on the LUR and kriging, Danny geocodes the home and school addresses for NAAS subjects
+	* 4) While Kate is working on the LUR and kriging, Danny geocodes the home and school addresses for NAAS subjects
 
-5) When Kate is done with the LUR and kriging, Danny calculates GIS variables around the NAAS subject addresses. These variables are:
+	* 5) When Kate is done with the LUR and kriging, Danny calculates GIS variables around the NAAS subject addresses. These variables are:
 	- Population density (2000 and 2010 census)
 	- % poverty (2000 and 2010 census)
 	- Median household income (2000 and 2010 census)
@@ -32,9 +34,9 @@ The buffer sizes we will need for these variables are 0.05, 0.1, 0.25, 0.5, and 
 	- Traffic volume***
 	- Black carbon and PM2.5 two-year averages from NYCCAS (Danny, Gina said you would have this data)
 
-The buffer sizes we will need are 0.25, 0.5, and 1-km radial buffers plus 1-km network buffers. 
+		The buffer sizes we will need are 0.25, 0.5, and 1-km radial buffers plus 1-km network buffers. 
 
-At this point we will also need to use the surface Kate develops to calculate pollen exposures for the NAAS addresses. 
+		At this point we will also need to use the surface Kate develops to calculate pollen exposures for the NAAS addresses. 
 
 ####MSM
 * have all of the vector analysis completed, ran the kernel densities this weekend. 
@@ -42,7 +44,7 @@ At this point we will also need to use the surface Kate develops to calculate po
 
 ####NETS
 * created a NETS animation of modified healthy food outlets. 
-	* This category includes supermarkets, fruit and veggie markets, natural food stores, and fish markets. This indicator of healthy food access was developed for a BMI analysis, and has been modified slightly to include nut stores and fish markets for a fatty acids focus - if SMK=1 or FVM=1 or NAT=1 or FSH=1' 
+	* This category includes supermarkets, fruit and veggie markets, natural food stores, and fish markets. This indicator of healthy food access was developed for a BMI analysis, and has been modified slightly to include nut stores and fish markets for a fatty acids focus - if SMK=1 or FVM=1 or NAT=1 or FSH=1 
 	
 	
 	* Here’s a smaller version. 
