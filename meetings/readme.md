@@ -41,6 +41,8 @@
 ####MSM
 * have all of the vector analysis completed, ran the kernel densities this weekend. 
 * complete all the kernel density table operations, just need to run and slightly modify the code to compile all the tables into a master dataset and review the output before sending. 
+* I need James to create the vacancy metrics and the updated walkability
+
 
 ####NETS
 * created a NETS animation of modified healthy food outlets. 
@@ -52,6 +54,25 @@
 	* And here’s a smaller one with a longer time period for each yearly snapshot. 
 [For Download](https://www.dropbox.com/s/a7p09iwibft8sij/nets_modified_healthy_half_longer.gif?dl=0)
 [For Viewing Online](https://dl.dropboxusercontent.com/u/36281098/beh/nets/animation/nets_modified_healthy_half_longer.gif)
+
+#####Suggestions
+
+Create just an animation of the kernel densities. 
+
+Maybe try the search radius at 1/2 km instead of 1 km. 
+
+Half households have car use a diff. search radius. 
+
+Try physical.
+
+Try in R. with Shiny. 
+
+Show a new location opening. Colored by date of entry. 
+
+Animated GIF Studio. 
+
+Try scale with all 23 counties. 
+
 
 ####Restaurants
 * Review restaurants paper. 
