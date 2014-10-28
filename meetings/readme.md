@@ -14,7 +14,7 @@ Shipped the tract dataset for all NYC tracts to them. 10/22
 		
 	* Incomplete
 		* Building density
-		* Traffic density
+		* Traffic density (ask Steve)
 	
 ####Nets
 * Nets King County - need to verify UW Census data - some weirdness in their data
@@ -26,6 +26,16 @@ Shipped the tract dataset for all NYC tracts to them. 10/22
 I’ll ask a few of the high-res imagery providers for some quotes and what resolution they have available to see if we can do better than the WMS services.
 
 [This is an example of Google’s resolution, which seems to be the best freely available.](https://www.dropbox.com/s/31pu8vy7nghhl7f/rio-geogle.png?dl=0)
+
+###Upcoming Work
+* GPS loggers on 200 Kids Children's Center, basically do PATS on children. 
+* NYU
+* Maps of social, built env., disease factors for their hospital catchment zone. Coming to speak with us on Nov. 11th. 
+* NYRR Mighty Milers. Physical educaiton program. Where kids do a marathon 1 mile at a time. School based running program. Interested in evaluating the schools. Couple hundred thousand kids. Finding schools with a homeroom based champion. Will be getting this to Andrew. 
+* Time estimates - Hospitalizations from SPARKS.
+* 
+
+
 
 ##20141013
 
@@ -69,6 +79,8 @@ I’ll ask a few of the high-res imagery providers for some quotes and what reso
 * have all of the vector analysis completed, ran the kernel densities this weekend. 
 * complete all the kernel density table operations, just need to run and slightly modify the code to compile all the tables into a master dataset and review the output before sending. 
 * I need James to create the vacancy metrics and the updated walkability
+
+
 
 
 ####NETS
