@@ -1,5 +1,32 @@
 #BEH Meeting
 
+##20141028
+####MSM
+Shipped the tract dataset for all NYC tracts to them. 10/22
+
+####Neighborhood Asthma and Allergy Study (NYC NAAS)
+* Calculates a series of GIS variables for <strong>(a) the pollen sites</strong> (done)  and (b) a grid* (not done) across NYC. These variables are:
+	* Complete for 50, 100, 250, 500, 1000 meters
+		* Area calcs and land calcs
+		* Tree canopy (2010 layer)
+		* Elevation
+		* Distance to nearest body of water
+		
+	* Incomplete
+		* Building density
+		* Traffic density
+	
+####Nets
+* Nets King County - need to verify UW Census data - some weirdness in their data
+* [Nets Animations Updates](https://github.com/nygeog/beh_public/tree/master/nets/201410_animations)
+
+####Rio
+[Study Area Map](https://www.dropbox.com/s/ccyxq6pz8dfw3be/rio_study_area.png?dl=0)
+
+I’ll ask a few of the high-res imagery providers for some quotes and what resolution they have available to see if we can do better than the WMS services.
+
+[This is an example of Google’s resolution, which seems to be the best freely available.](https://www.dropbox.com/s/31pu8vy7nghhl7f/rio-geogle.png?dl=0)
+
 ##20141013
 
 ###GIS
