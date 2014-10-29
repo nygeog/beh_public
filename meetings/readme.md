@@ -33,7 +33,7 @@ I’ll ask a few of the high-res imagery providers for some quotes and what reso
 * Maps of social, built env., disease factors for their hospital catchment zone. Coming to speak with us on Nov. 11th. 
 * NYRR Mighty Milers. Physical educaiton program. Where kids do a marathon 1 mile at a time. School based running program. Interested in evaluating the schools. Couple hundred thousand kids. Finding schools with a homeroom based champion. Will be getting this to Andrew. 
 * Time estimates - Hospitalizations from SPARKS.
-* 
+
 
 
 
