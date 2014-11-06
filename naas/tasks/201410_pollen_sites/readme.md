@@ -145,8 +145,11 @@ The pollen site neighborhood geography 50 meter buffer land area (water areas re
 ######pr0250mbldgvol
 ######pr0500mbldgvol
 ######pr1000mbldgvol
+###Google Earth screenshot
 ![img/ge.png](img/ge.png)
+###Building and neighborhood geography
 ![img/3dbldg.png](img/3dbldg.png)
+###Building Volume Spread over the entire neighborhood
 ![img/bulk.png](img/bulk.png)
 ######pr0050mbldgbulkorig
 ######pr0050mbldgbulkland
