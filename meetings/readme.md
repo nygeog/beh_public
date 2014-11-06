@@ -1,5 +1,10 @@
 #BEH Meeting
 
+Next meeting show traffic mxd and talk about. 
+/Dropbox/GIS/Data/mxd/traffic_data_mxd_nys_esri.mxd
+
+
+
 ##20141028
 ####MSM
 Shipped the tract dataset for all NYC tracts to them. 10/22
