@@ -62,7 +62,7 @@ with open(inCSV, 'wb') as f:
     	writer.writerow(row)
 
 
-df = pd.read_csv(inCSV)
+df = pd.read_csv(inCSV, header=None)
 
 df.columns = ['prop_id','playground_id','school_id','status','name','location','accessible','level','adaptive_swing','lat','lon']
 

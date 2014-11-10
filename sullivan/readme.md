@@ -7,7 +7,7 @@
 [Directory of Playgrounds](https://data.cityofnewyork.us/Environment/Directory-of-Playgrounds/59gn-q4ai)
 
 #######Data Caveats
-21 records in the Playgrounds XML file from NYC Open Data do not have latitude/longitutde values. It does not appear that any of those are in the Bronx or Manhattan. 
+21 of 1249 (less than 1 percent) records in the Playgrounds XML file from NYC Open Data do not have latitude/longitutde values. It does not appear that any of those are in the Bronx or Manhattan. 
 
 
 #####ZIP Code Boundaries
