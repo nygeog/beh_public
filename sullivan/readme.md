@@ -10,6 +10,8 @@
 
 ###Output:
 
+[Download RAW csv file of ZIP code Playground counts.](https://raw.githubusercontent.com/nygeog/beh_public/master/sullivan/data/playgrounds_in_zip_nyc.csv)
+
 	ZIPCODE,playgrounds
 	10027,11
 	10029,14

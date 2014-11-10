@@ -8,6 +8,13 @@ def copyanything(src, dst):
             shutil.copy(src, dst)
         else: raise
 
+print 'erase folder in beh public'
+try:
+	shutil.rmtree('/Users/danielmsheehan/GitHub/beh_public/sullivan')
+except:
+	print 'the folder was already missing'
+
+
 #incopy = '/Users/danielmsheehan/GitHub/beh/naas/tasks/201410_pollen_sites/img'
 incopy = '/Users/danielmsheehan/GitHub/beh/sullivan'
 #outcopy = '/Users/danielmsheehan/GitHub/beh_public/naas/tasks/201410_pollen_sites/img'
