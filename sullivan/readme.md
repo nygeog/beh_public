@@ -5,8 +5,15 @@
 ###Input Data:
 ####Playgrounds
 [Directory of Playgrounds](https://data.cityofnewyork.us/Environment/Directory-of-Playgrounds/59gn-q4ai)
+
+#######Data Caveats
+21 records in the Playgrounds XML file from NYC Open Data do not have latitude/longitutde values. It does not appear that any of those are in the Bronx or Manhattan. 
+
+
 #####ZIP Code Boundaries
 [Zip Code Boundaries](https://data.cityofnewyork.us/Business/Zip-Code-Boundaries/i8iw-xf4u)
+
+2014 ZIP code data
 
 ###Output:
 
