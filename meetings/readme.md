@@ -6,7 +6,7 @@ Karen Lee talk at 11 am.
 
 1. Shipped Sean the playgrounds by ZIP.
 2. Finished Pollen Sites geoprocessing for NAAS. Next up is the grid. 
-
+3. MSM AIDSVu 13+ age for rate and counts. 
 
 Next meeting show traffic mxd and talk about. 
 /Dropbox/GIS/Data/mxd/traffic_data_mxd_nys_esri.mxd
