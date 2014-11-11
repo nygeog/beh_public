@@ -1,4 +1,12 @@
 #BEH Meeting
+##20141111
+10 am start. 
+
+Karen Lee talk at 11 am. 
+
+1. Shipped Sean the playgrounds by ZIP.
+2. Finished Pollen Sites geoprocessing for NAAS. Next up is the grid. 
+
 
 Next meeting show traffic mxd and talk about. 
 /Dropbox/GIS/Data/mxd/traffic_data_mxd_nys_esri.mxd
