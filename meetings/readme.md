@@ -1,4 +1,12 @@
 #BEH Meeting
+##20141117
+
+####SPARCS
+We currently don't have a ZIP + 4 dataset. 
+It might be in Business Analyst but will have to rebuild Rundle-008 (machine that Noelle was using when it crashed.)
+
+
+
 ##20141111
 10 am start. 
 
