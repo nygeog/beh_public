@@ -2,10 +2,22 @@
 -----#####Meetings from 2014-07-02 -> 2015Info:
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
-##20141117
+##20141118
 ####Brooklyn Hospital Center
 * If we need some web maps [CartoDB and Mapbox examples](http://scriptogr.am/nygeog)
 * MXD of Brooklyn Hospital Center, with Crime, Crashes, Restaurants, etc. 
+
+* Community Epi Profiles
+	
+	* Traffic Patterns
+	* Profiles for geographies as small as possible (blocks, tracts?)
+	* Develop a needs index
+		* What are the neighborhood health needs?
+		
+	* Help patients, utility of the health profile. 
+
+####Questions
+* What is the catchment area of BHC? 
 
 ####SPARCS
 * We currently don't have a ZIP + 4 dataset. It might be in Business Analyst but will have to rebuild Rundle-008 (machine that Noelle was using when it crashed.)
@@ -19,6 +31,8 @@
 
 ####Streetview DC
 * A 1-km grid laid over the DC metropolitan area with an oversample on a 1/2-km grid anywhere where the 1/2-km grid would fall in the top quartile of residents age 50 or over (this is the sampling frame of the HRS). Plus 30 locations in the Baltimore metropolitan area for a training dataset.
+	* Mike - get back with Census year
+	* What is the plan for Baltimore, just random points? 
 
 ####AIDSVu
 * MSM AIDSVu 13+ age for rate and counts. 
