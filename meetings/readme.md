@@ -1,14 +1,27 @@
 #BEH Meeting
+-----#####Meetings from 2014-07-02 -> 2015Info:
+* 9-1 (605) 475-6700 (372835)  code 169-6028
+
 ##20141117
+####Brooklyn Hospital Center
+* If we need some web maps [CartoDB and Mapbox examples](http://scriptogr.am/nygeog)
+* MXD of Brooklyn Hospital Center, with Crime, Crashes, Restaurants, etc. 
 
 ####SPARCS
 * We currently don't have a ZIP + 4 dataset. It might be in Business Analyst but will have to rebuild Rundle-008 (machine that Noelle was using when it crashed.)
 
-
 ####CPRC 
-* Creating maps for Latino 
+* Creating maps for State Policy & Latino Health
 
+####NAAS
+* Started processing the grids. There's ~85,000 grid points. The 1 km buffers will need some serious code modifications as the overlapping polygons are slowing down a lot of the processing (to a halt in some cases ~4 days vs. a few hours for one operation).
+* Traffic data, have an MXD to show
 
+####Streetview DC
+* A 1-km grid laid over the DC metropolitan area with an oversample on a 1/2-km grid anywhere where the 1/2-km grid would fall in the top quartile of residents age 50 or over (this is the sampling frame of the HRS). Plus 30 locations in the Baltimore metropolitan area for a training dataset.
+
+####AIDSVu
+* MSM AIDSVu 13+ age for rate and counts. 
 
 ##20141111
 10 am start. 
