@@ -192,8 +192,14 @@ The earliest birth date for children in the study cohort we're going to be estim
 
 ####Esri Traffic Count Variables
 The Esri Traffic data was for Years: 2001 - 2012. All 0 or null Traffic Count data was removed. The data was a point file (point - see traffic.png below).
+
+####Annual Average Daily Traffic - 2001-2012
+######trafesri^^^^^^avg_20012012
+The pollen site neighborhood geography (^^^^^^) buffer land area (water areas removed) average Esri data traffic count for years: 2001 - 2012. 
+
+####Annual Average Daily Traffic by Year - 2001-2012
 ######trafesri^^^^^^avg_YYYY
-The pollen site neighborhood geography (^^^^^^) buffer land area (water areas removed) average Esri data traffic count by Year (YYYY). Years: 2001 - 2012. All 0 or null Traffic Count data was removed. 
+The pollen site neighborhood geography (^^^^^^) buffer land area (water areas removed) average Esri data traffic count by Year (YYYY). Years: 2001 - 2012. 
 
 
 ####New York State (NYS) DOT (Department of Transportation) Traffic Count Variables
