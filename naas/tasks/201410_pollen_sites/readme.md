@@ -161,34 +161,56 @@ The pollen site neighborhood geography 50 meter buffer land area (water areas re
 
 
 ##Building Variables
+All building data was converted to meters. Volume is in square meters. 
 
+###Building Volume
 ######-^^^^^^bldgvol
+The pollen site neighborhood geography (^^^^^^) buffer land area total building volume. 
 
-##Building Bulk
+###Building Bulk
+######-^^^^^^bldgbulkorig
+The pollen site neighborhood geography (^^^^^^) buffer land area total building volume/original area (including areas over water).
+######-^^^^^^bldgbulkland
+The pollen site neighborhood geography (^^^^^^) buffer land area total building volume/land area (water areas removed).
 ###Google Earth screenshot
 ![img/ge.png](img/ge.png)
 ###Building and neighborhood geography
 ![img/3dbldg.png](img/3dbldg.png)
 ###Building Volume Spread over the entire neighborhood
 ![img/bulk.png](img/bulk.png)
-######-^^^^^^bldgbulkorig
-######-^^^^^^bldgbulkland
 
 
+##Traffic Variables
+The earliest birth date for children in the study cohort we're going to be estimating exposures for is in 2001, so I'd use that as the cutoff. 
 
-#Notes
-
-##To Do:
-
-
-* Traffic density - wait for Kate W. to reply 
-* Copy Esri Traffic Data
-* Copy NYS DOT Data 1
-* Copy NYS DOT Data 2
+	for - in geogsList = ['p'] #Pollen Sites
+	
+	for ^^^^^^ in radbufListFn = ['r0050m','r0100m','r0250m','r0500m','r1000m'] #radial buffer - distance (meters)
 
 
+	for YYYY in YearsRange = (2001-2012) #range of years for traffic obs. some missing due to no data intersected. 
 
-##Completed Tasks:
+####Esri Traffic Count Variables
+The Esri Traffic data was for Years: 2001 - 2012. All 0 or null Traffic Count data was removed. The data was a point file (point - see traffic.png below).
+######trafesri^^^^^^avg_YYYY
+The pollen site neighborhood geography (^^^^^^) buffer land area (water areas removed) average Esri data traffic count by Year (YYYY). Years: 2001 - 2012. All 0 or null Traffic Count data was removed. 
+
+
+####New York State (NYS) DOT (Department of Transportation) Traffic Count Variables
+[NYS Traffic Data Viewer](http://gis.dot.ny.gov/tdv/)
+I emailed the NYS DOT and they sent the shapefile. The Year used for this project was 2012. The data is for street segments (line - see traffic.png below).
+
+######trafnysd^^^^^^avg_YYYY
+The pollen site neighborhood geography (^^^^^^) buffer land area (water areas removed) average NYS DOT data traffic count by Year (YYYY). 
+
+![img/traffic.png](img/traffic.png)
+
+##Notes:
+
+####To Do:
+
+
+####Completed Tasks:
 * Copy input pollen data
 * Project input pollen data
 * Buffer Pollen Sites
@@ -204,25 +226,11 @@ The pollen site neighborhood geography 50 meter buffer land area (water areas re
 * create building density metric
 * find near angle image and documentation for near distance to water
 * create building density illustration
-	
-	
-	
-	
-	
-###Kate's Notes
+* Copy Esri Traffic Data	
+* Copy NYS DOT Data 2012
+* copy nyccas surface and grid	
+* Traffic density - wait for Kate W. to reply 
+* intersect and create traffic density measures
 
-2) Danny calculates a series of GIS variables for (a) the pollen sites and (b) a grid* across NYC. These variables are:
-	
-* Tree canopy (2010 layer)
-* Building density
-* Elevation
-* Distance to nearest body of water
-* Traffic density**
 
-The buffer sizes we will need for these variables are 
 
-* 0.05
-* 0.1
-* 0.25
-* 0.5
-* 1-km radial buffers
