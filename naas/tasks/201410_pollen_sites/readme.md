@@ -194,11 +194,11 @@ The earliest birth date for children in the study cohort we're going to be estim
 The Esri Traffic data was for Years: 2001 - 2012. All 0 or null Traffic Count data was removed. The data was a point file (point - see traffic.png below).
 
 ####Annual Average Daily Traffic - 2001-2012
-######trafesri^^^^^^avg_20012012
+######trafesri-^^^^^^avg_20012012
 The pollen site neighborhood geography (^^^^^^) buffer land area (water areas removed) average Esri data traffic count for years: 2001 - 2012. 
 
 ####Annual Average Daily Traffic by Year - 2001-2012
-######trafesri^^^^^^avg_YYYY
+######trafesri-^^^^^^avg_YYYY
 The pollen site neighborhood geography (^^^^^^) buffer land area (water areas removed) average Esri data traffic count by Year (YYYY). Years: 2001 - 2012. 
 
 
@@ -206,7 +206,7 @@ The pollen site neighborhood geography (^^^^^^) buffer land area (water areas re
 [NYS Traffic Data Viewer](http://gis.dot.ny.gov/tdv/)
 I emailed the NYS DOT and they sent the shapefile. The Year used for this project was 2012. The data is for street segments (line - see traffic.png below).
 
-######trafnysd^^^^^^avg_YYYY
+######trafnysd-^^^^^^avg_YYYY
 The pollen site neighborhood geography (^^^^^^) buffer land area (water areas removed) average NYS DOT data traffic count by Year (YYYY). 
 
 ![img/traffic.png](img/traffic.png)
