@@ -1,22 +1,44 @@
 #BEH Meetings
+
 -----#####Meetings from 2014-07-02 -> 2015Info:
 * 9-1 (605) 475-6700 (372835)  code 169-6028
-##20141202
-###Sent
+
+
+Student - request. ZIP Code park 
+
+Walkability, Park Safety, 
+Check in with James, see where he is on the Com. District. and see if he can run ZIP code. 
+
+Talk with James. 
+
+Tell Group what we have on the shelf, see maybe MSM, or Community Districts, CEH or etc. 
+
+
+
+----##2014-12-02
+###Sent out:
 ####Mapping Exclusionary State Policies - State Policy and Latino Health
 * sent maps out for Dr. Hirsch and Morgan Flake
------###Working on
+
+log-in cprc hours. 
+
+-----###Working on:
 ####SPARCs* Creating ZIP + 4 for 2000 geocoding data for SPARCS* Need to create <strong>Time Estimate</strong> for Gina
 ####NAAS
 * Started processing the grids. There's ~85,000 grid points. The 1 km buffers have had some serious code modifications as the overlapping polygons were causing the scripts to crash. The overlapping nature of the buffered grid points just don't process well unless subset and overlaps split out. ####Streetview DC
-* A 1-km grid laid over the DC metropolitan area with an oversample on a 1/2-km grid anywhere where the 1/2-km grid would fall in the top quartile of residents age 50 or over (this is the sampling frame of the HRS). Plus 30 locations in the Baltimore metropolitan area for a training dataset.
-	* Mike - get back with Census year
+* A 1-km grid laid over the DC metropolitan area with an oversample on a 1/2-km grid anywhere where the 1/2-km grid would fall in the top quartile of residents age 50 or over (this is the sampling frame of the HRS). Plus 30 locations in the Baltimore metropolitan area for a training dataset. Grid must start at White House address (see Mike's notes in project folder)
+	* Mike - get back with Census year	
+######Answer:
+######2010 Census. 
 	* What is the plan for Baltimore, just random points? 
 
 
+
+####Sally Findley 
+
 -----
 
-##20141118
+##2014-11-18
 ####Brooklyn Hospital Center
 * If we need some web maps [CartoDB and Mapbox examples](http://scriptogr.am/nygeog)
 * MXD of Brooklyn Hospital Center, with Crime, Crashes, Restaurants, etc. 
@@ -53,7 +75,7 @@
 
 
 -----
-##20141111
+##2014-11-11
 10 am start. 
 
 Karen Lee talk at 11 am. 
@@ -67,7 +89,7 @@ Next meeting show traffic mxd and talk about.
 
 
 
-##20141028
+##2014-10-28
 ####MSM
 Shipped the tract dataset for all NYC tracts to them. 10/22
 
