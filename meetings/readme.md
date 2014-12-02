@@ -1,7 +1,21 @@
-#BEH Meeting
+#BEH Meetings
 -----#####Meetings from 2014-07-02 -> 2015Info:
 * 9-1 (605) 475-6700 (372835)  code 169-6028
-
+##20141202
+###Sent
+####Mapping Exclusionary State Policies - State Policy and Latino Health
+* sent maps out for Dr. Hirsch and Morgan Flake
+-----###Working on
+####SPARCs* Creating ZIP + 4 for 2000 geocoding data for SPARCS* Need to create <strong>Time Estimate</strong> for Gina
+####NAAS
+* Started processing the grids. There's ~85,000 grid points. The 1 km buffers have had some serious code modifications as the overlapping polygons were causing the scripts to crash. The overlapping nature of the buffered grid points just don't process well unless subset and overlaps split out. ####Streetview DC
+* A 1-km grid laid over the DC metropolitan area with an oversample on a 1/2-km grid anywhere where the 1/2-km grid would fall in the top quartile of residents age 50 or over (this is the sampling frame of the HRS). Plus 30 locations in the Baltimore metropolitan area for a training dataset.
+	* Mike - get back with Census year
+	* What is the plan for Baltimore, just random points? 
+
+
+-----
+
 ##20141118
 ####Brooklyn Hospital Center
 * If we need some web maps [CartoDB and Mapbox examples](http://scriptogr.am/nygeog)
@@ -37,6 +51,8 @@
 ####AIDSVu
 * MSM AIDSVu 13+ age for rate and counts. 
 
+
+-----
 ##20141111
 10 am start. 
 
@@ -87,7 +103,7 @@ I’ll ask a few of the high-res imagery providers for some quotes and what reso
 
 
 
-
+-----
 ##20141013
 
 ###GIS
@@ -174,6 +190,7 @@ Try scale with all 23 counties.
 	* [Impact of internet posting of restaurant inspection scores on critical violations.](http://www.ncbi.nlm.nih.gov/pubmed/23858661)
 	* [Public knowledge and attitudes regarding public health inspections of restaurants.](http://www.ncbi.nlm.nih.gov/pubmed/18471587)
 
+-----
 ##20141007
 
 ###GIS
@@ -217,7 +234,7 @@ This map represents year 2000 baseline estimate of above ground live dry biomass
 
 
 
----
+----
 ##20140930
 
 #####Healthy Food Outlets PAA
@@ -232,7 +249,7 @@ I think that would be great.  Maybe we could even animate a series of kernel den
 
 
 
-
+-----
 ##20140923
 
 * Geocode addresses Perzonowski
@@ -254,7 +271,7 @@ I think that would be great.  Maybe we could even animate a series of kernel den
 
 * 350 other addresses. School addresses and post enrollment address. 45 monitoring sites. 
 
-
+-----
 ##20140916
 
 1) Wrapped up ATN Aidsvu new data incorporation and data dictionary updates
@@ -278,8 +295,7 @@ Ask students which phones they have.
 Getting Addresses from Jose Luchsinger and Dana March.
 EPA and NIMHD
 
-
-
+-----
 ##20140902
 
 M2M
@@ -312,7 +328,7 @@ Station buffer - what would be the buffers.
 
 
 
-
+-----
 ##20140812
 
 Earth Institute - fracking 3 counties - PA, 3 counties - NY - non fracking area
@@ -399,7 +415,7 @@ Unlimited tables
 500 MB of data
 
 
-
+-----
 From 
 ##20140702
 
