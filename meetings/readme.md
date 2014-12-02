@@ -4,18 +4,14 @@
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
 
-Student - request. ZIP Code park 
+----##2014-12-02
+###To do before next meeting:
+Student - request. ZIP Code or Census Tracts 
 
 Walkability, Park Safety, 
-Check in with James, see where he is on the Com. District. and see if he can run ZIP code. 
+Check in with James, see where he is on the Com. District. and see if he can run ZIP code. Talk with James. 
 
-Talk with James. 
-
-Tell Group what we have on the shelf, see maybe MSM, or Community Districts, CEH or etc. 
-
-
-
-----##2014-12-02
+<strong>Tell Group what we have on the shelf, see maybe MSM, or Community Districts, CEH or etc.</strong> 
 ###Sent out:
 ####Mapping Exclusionary State Policies - State Policy and Latino Health
 * sent maps out for Dr. Hirsch and Morgan Flake
