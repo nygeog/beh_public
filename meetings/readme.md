@@ -3,6 +3,24 @@
 -----#####Meetings from 2014-07-02 -> 2015Info:
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
+##2014-12-09
+
+* 90% done with <strong>Time Estimate</strong> for Gina for SPARCs. 1.5 days so far. 
+* Started diggin up files to the student request
+* Processing NAAS Grid data for the last 6 days. Still running.
+* 
+
+###To do:
+Student - request. ZIP Code or Census Tracts 
+
+Walkability, Park Safety, 
+Check in with James, see where he is on the Com. District. and see if he can run ZIP code. Talk with James. 
+
+<strong>Tell Group what we have on the shelf, see maybe MSM, or Community Districts, CEH or etc.</strong> 
+
+
+
+
 
 ----##2014-12-02
 ###To do before next meeting:
