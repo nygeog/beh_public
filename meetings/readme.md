@@ -8,7 +8,7 @@
 
 -Creating NYC Tract Level dataset for Student request
 
--Detroit Census tracts for Andrew R - he sent a list.
+-Detroit Census tracts for Andrew R2.0 - he sent a list.
 
 -SPARCs Estimates for whole state, finalize and have 
 James review.
