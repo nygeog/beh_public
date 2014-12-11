@@ -6,6 +6,22 @@
 ----
 ##2014-12-09
 
+-Creating NYC Tract Level dataset for Student request
+
+-Detroit Census tracts for Andrew R - he sent a list.
+
+-SPARCs Estimates for whole state, finalize and have 
+James review.
+
+-GPS walks from summer. 
+
+-Review and update Sally Findley document
+
+-Bader's DC Streetview stuff
+
+
+
+
 ###To do:
 * 90% done with <strong>Time Estimate</strong> for Gina for SPARCs. 1.5 days so far. 
 * Started diggin up files to the student request
