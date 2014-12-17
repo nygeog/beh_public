@@ -5,7 +5,23 @@
 
 ----
 ##2014-12-09
+#####Tasks Prioritized
+ 
+-GPS walks from summer. 
 
+-Bader's DC Streetview grid
+ 
+-Detroit Census tracts for other Andrew R. - he sent a list. 
+
+-Creating NYC Tract Level dataset for Student request 
+
+#####Complete
+-SPARCs Time Estimate for whole state, finalize and have 
+James review. 95% complete
+-Review and update Sally Findley Time Estimate document
+ 
+
+#####Asked Andrew to Prioritize
 -Creating NYC Tract Level dataset for Student request
 
 -Detroit Census tracts for Andrew R2.0 - he sent a list.
