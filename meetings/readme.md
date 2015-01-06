@@ -4,6 +4,32 @@
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
 ----
+
+
+##2014-01-06
+
+
+Wyckoff - Health Improvement District
+
+Check distances for Gina
+
+Email Bahman
+
+
+Sparcs - 
+
+
+Top of queue
+List of ZIP codes for fast food joints in those ZIP codes
+2014 restaurant inspection data
+
+Use Fast Food restaurant 
+
+per zip code, 5 random points, translate to address, 
+
+
+
+
 ##2014-12-09
 #####Tasks Prioritized
  
