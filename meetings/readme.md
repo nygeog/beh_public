@@ -11,17 +11,11 @@
 #####Work Queue
 
 ######Working
-
-* GPS walks from summer. Recheck the file sent to Gina
- 
 * Review and update Sally Findley Time Estimate document
- 
 * Creating NYC Tract Level dataset for Student request 
 
-
-
-
 ######Backburner
+* GPS walks from summer. Recheck the file sent to Gina
 * Detroit Census tracts for other Andrew R. - he sent a list. 
 
 ######Done:
