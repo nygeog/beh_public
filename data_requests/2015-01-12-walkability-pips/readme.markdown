@@ -5,11 +5,12 @@ If I recall correctly, you're trying to use ZIP or ZCTA for your neighborhood de
 
 
 ##BEH Tract Walkability
-Link to csv
+[BEH Tract Walkability Index (CSV)](https://raw.githubusercontent.com/nygeog/beh_public/master/data_requests/2015-01-12-walkability-pips/data/t10_walkability_recalc.csv)
 
+[BEH Tract Walkability Index Data Dictionary (PDF)]
 Link to Data Dictionary
 
-#####*Join the Walkability table to the NYC DCP Tracts shapfile*
+#####*Join the Walkability table (CSV) to the NYC DCP Tracts shapfile*
 
 [NYC Department of City Planning - Tracts Shapefile](http://www.nyc.gov/html/dcp/download/bytes/nyct2010_14d.zip)
 Note: NYC DCP's Tract file has 2,166 Tracts, our BEH dataset uses 2,164. The two missing tracts are water/piers. Drop them from the Tracts shapefile. 
