@@ -1,6 +1,6 @@
-Melina Iacovou
 
-If I recall correctly, you're trying to use ZIP or ZCTA for your neighborhood definition. If that is the case you can use area weighted apportionment with these geographies to come up with your ZIP values. If you're not sure how to do this your GIS instructor should be able to help out. 
+
+If I recall correctly, you're trying to use ZIP or ZCTA for your neighborhood definition. If that is the case you can use **area weighted apportionment** with these geographies to come up with your ZIP values. If you're not sure how to do this your GIS instructor should be able to help out. 
 
 
 
@@ -12,11 +12,11 @@ Link to Data Dictionary
 [Link to NYC Department of City Planning - Tracts Shapefile](http://www.nyc.gov/html/dcp/download/bytes/nyct2010_14d.zip)
 Note: NYC DCP's Tract file has 2,166 Tracts, our BEH dataset uses 2,164. The two missing tracts are water/piers. Drop them from the Tracts shapefile. 
 
-##Park inspection data
+##Park Inspection data
 Our Park inspection data shapefile is only current up to 2006. I could share that with you. But more likely you'd want to use the more current data from NYC Open Data. It's an XML file so you'd have do some data carpentry to get that to join with the actual Parks data. **ParkId** is the field you'd want to use. 
 
 
-####Parks Inspections data
+####Park Inspections data
 [Park Inspections Data XML](https://data.cityofnewyork.us/Housing-Development/Parks-Inspections-data/t9jy-gfev)
 
 The Parks Inspection Program (PIP) is a comprehensive, outcome-based performance measurement system that generates frequent, random, and detailed inspections of our parks and playgrounds. A team of inspectors conducts nearly 5,000 inspections per year. Each site receives a rating of "Acceptable" or "Unacceptable" based upon the condition of specific park features.
