@@ -5,7 +5,7 @@ If I recall correctly, you're trying to use ZIP or ZCTA for your neighborhood de
 
 
 ##BEH Tract Walkability
-[BEH Tract Walkability Index (CSV)](https://raw.githubusercontent.com/nygeog/beh_public/master/data_requests/2015-01-12-walkability-pips/data/t10_walkability_recalc.csv)
+[BEH Tract Walkability Index (CSV) - right-click Save As, to download as .csv](https://raw.githubusercontent.com/nygeog/beh_public/master/data_requests/2015-01-12-walkability-pips/data/t10_walkability_recalc.csv)
 
 [BEH Tract Walkability Index Data Dictionary (PDF)](https://github.com/nygeog/beh_public/blob/master/data_requests/2015-01-12-walkability-pips/docs/walkability-gis-codebook-2010-tracts-20150112.pdf?raw=true)
 
@@ -14,6 +14,8 @@ If I recall correctly, you're trying to use ZIP or ZCTA for your neighborhood de
 
 [NYC Department of City Planning - Tracts Shapefile](http://www.nyc.gov/html/dcp/download/bytes/nyct2010_14d.zip)
 Note: NYC DCP's Tract file has 2,166 Tracts, our BEH dataset uses 2,164. The two missing tracts are water/piers. Drop them from the Tracts shapefile. 
+
+---
 
 ##Park Inspection data
 Our Park inspection data shapefile is only current up to 2006. I could share that with you. But more likely you'd want to use the more current data from NYC Open Data. It's an XML file so you'd have do some data carpentry to get that to join with the actual Parks data. **ParkId** is the field you'd want to use. 
@@ -30,6 +32,11 @@ The Parks Inspection Program (PIP) is a comprehensive, outcome-based performance
 Directory of Parks Properties
 
 * [Direct Download of the Parks (Shapefile)](https://data.cityofnewyork.us/api/geospatial/rjaj-zgq7?method=export&format=Shapefile)
+
+---
+
+##Park Access data
+You should be able to use the Parks Properties data (above) to create Park area per neighborhood geography. you might also want to create buffers for your neighborhood geography to create a measure like Park Area in Square Meters (or Kilometers) in a 1km buffer from your neighborhood geography (ZIP).
 
 ---
 
