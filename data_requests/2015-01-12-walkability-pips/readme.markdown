@@ -9,7 +9,7 @@ Link to csv
 
 Link to Data Dictionary
 
-###*Join the Walkability table to the NYC DCP Tracts shapfile*
+#####*Join the Walkability table to the NYC DCP Tracts shapfile*
 
 [NYC Department of City Planning - Tracts Shapefile](http://www.nyc.gov/html/dcp/download/bytes/nyct2010_14d.zip)
 Note: NYC DCP's Tract file has 2,166 Tracts, our BEH dataset uses 2,164. The two missing tracts are water/piers. Drop them from the Tracts shapefile. 
