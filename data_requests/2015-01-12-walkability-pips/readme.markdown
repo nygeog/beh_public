@@ -7,8 +7,8 @@ If I recall correctly, you're trying to use ZIP or ZCTA for your neighborhood de
 ##BEH Tract Walkability
 [BEH Tract Walkability Index (CSV)](https://raw.githubusercontent.com/nygeog/beh_public/master/data_requests/2015-01-12-walkability-pips/data/t10_walkability_recalc.csv)
 
-[BEH Tract Walkability Index Data Dictionary (PDF)]
-Link to Data Dictionary
+[BEH Tract Walkability Index Data Dictionary (PDF)](https://github.com/nygeog/beh_public/blob/master/data_requests/2015-01-12-walkability-pips/docs/walkability-gis-codebook-2010-tracts-20150112.pdf?raw=true)
+
 
 #####*Join the Walkability table (CSV) to the NYC DCP Tracts shapfile*
 
