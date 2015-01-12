@@ -18,7 +18,7 @@ Note: NYC DCP's Tract file has 2,166 Tracts, our BEH dataset uses 2,164. The two
 ---
 
 ##Park Inspection data
-Our Park inspection data shapefile is only current up to 2006. I could share that with you. But more likely you'd want to use the more current data from NYC Open Data. It's an XML file so you'd have do some data carpentry to get that to join with the actual Parks data. **ParkId** is the field you'd want to use. 
+Our Park inspection data shapefile is only current up to 2006. We might need to get approval from NYC Parks to share that historical data. But more likely you'd want to use the more current data from NYC Open Data. It's an XML file so you'd have do some data carpentry to get that to join with the actual Parks data. **ParkId** is the field you'd want to use. 
 
 
 ####Park Inspections data
@@ -36,7 +36,7 @@ Directory of Parks Properties
 ---
 
 ##Park Access data
-You should be able to use the Parks Properties data (above) to create Park area per neighborhood geography. you might also want to create buffers for your neighborhood geography to create a measure like Park Area in Square Meters (or Kilometers) in a 1km buffer from your neighborhood geography (ZIP).
+You should be able to use the Parks Properties data (above) to create Park area per neighborhood geography. You might also want to create buffers for your neighborhood geography to create a measure like Park Area in Square Meters (or Kilometers) in a 1 km buffer from your neighborhood geography (ZIP).
 
 ---
 
