@@ -1,4 +1,4 @@
-
+#Data Request - BEH Walkability, Parks Inspections data
 
 If I recall correctly, you're trying to use ZIP or ZCTA for your neighborhood definition. If that is the case you can use **area weighted apportionment** with these geographies to come up with your ZIP values. If you're not sure how to do this your GIS instructor should be able to help out. 
 
