@@ -13,12 +13,24 @@ Link to Data Dictionary
 Note: NYC DCP's Tract file has 2,166 Tracts, our BEH dataset uses 2,164. The two missing tracts are water/piers. Drop them from the Tracts shapefile. 
 
 ##Park inspection data
-Our Park inspection data shapefile is only current up to 2006. I could share that with you. 
+Our Park inspection data shapefile is only current up to 2006. I could share that with you. But more likely you'd want to use the more current data from NYC Open Data. It's an XML file so you'd have do some data carpentry to get that to join with the actual Parks data. **ParkId** is the field you'd want to use. 
 
+
+####Parks Inspections data
+[Park Inspections Data XML](https://data.cityofnewyork.us/Housing-Development/Parks-Inspections-data/t9jy-gfev)
+
+The Parks Inspection Program (PIP) is a comprehensive, outcome-based performance measurement system that generates frequent, random, and detailed inspections of our parks and playgrounds. A team of inspectors conducts nearly 5,000 inspections per year. Each site receives a rating of "Acceptable" or "Unacceptable" based upon the condition of specific park features.
+
+####Parks boundary file
+[Parks (Shapefile)](https://data.cityofnewyork.us/City-Government/Parks-Properties/rjaj-zgq7)
+
+Directory of Parks Properties
+
+* [Direct Download of the Parks (Shapefile)](https://data.cityofnewyork.us/api/geospatial/rjaj-zgq7?method=export&format=Shapefile)
 
 ---
 
-Daniel,
+<!--Daniel,
 
 Thanks so much for getting back to me. Could you give me an idea of what to expect from the dataset-- eg. what variables does it contain, what is the geography involved?
 
@@ -186,96 +198,4 @@ Please do let me know.
 Thanks so much,
 Melina
 
--- 
-Melina Iacovou
-Columbia University, Barnard College 2015
-Connect with me on Linkedin
-
-
-
-
-
--- 
-Melina Iacovou
-Columbia University, Barnard College 2015
-Connect with me on Linkedin
-
-
-
-
--- 
-Melina Iacovou
-Columbia University, Barnard College 2015
-Connect with me on Linkedin
-
-
-
-
-
-
--- 
-Melina Iacovou
-Columbia University, Barnard College 2015
-Connect with me on Linkedin
-
-
-
-
-
--- 
-Melina Iacovou
-Columbia University, Barnard College 2015
-Connect with me on Linkedin
-
-
-
-
-
--- 
-Melina Iacovou
-Columbia University, Barnard College 2015
-Connect with me on Linkedin
-
-
-
-
--- 
-Melina Iacovou
-Columbia University, Barnard College 2015
-Connect with me on Linkedin
-
-
-
--- 
-Melina Iacovou
-Columbia University, Barnard College 2015
-Connect with me on Linkedin
-
-
-
-
--- 
-Melina Iacovou
-Columbia University, Barnard College 2015
-Connect with me on Linkedin
-
-
-
-
-
--- 
-Daniel M. Sheehan
-Columbia University
-GIS Analyst/Geographer
-Department of Epidemiology
-Mailman School of Public Health
-Built Environment & Health Project
-722 West 168th St. NY, NY 10032 R735
-
-
-
-
--- 
-Melina Iacovou
-Columbia University, Barnard College 2015
-Connect with me on Linkedin
+-->
