@@ -1,6 +1,6 @@
 #Data Request - BEH Walkability, Parks Inspections data
 
-If I recall correctly, you're trying to use ZIP or ZCTA for your neighborhood definition. If that is the case you can use **area weighted apportionment** with these geographies to come up with your ZIP values. If you're not sure how to do this your GIS instructor should be able to help out. 
+If I recall correctly, you're trying to use ZIP or ZCTA for your neighborhood definition. If that is the case you can use **area weighted apportionment** with these geographies to come up with your ZIP values. If you're not sure how to do this your GIS instructor from Columbia should be able to help out. 
 
 
 
@@ -9,7 +9,9 @@ Link to csv
 
 Link to Data Dictionary
 
-[Link to NYC Department of City Planning - Tracts Shapefile](http://www.nyc.gov/html/dcp/download/bytes/nyct2010_14d.zip)
+###*Join the Walkability table to the NYC DCP Tracts shapfile*
+
+[NYC Department of City Planning - Tracts Shapefile](http://www.nyc.gov/html/dcp/download/bytes/nyct2010_14d.zip)
 Note: NYC DCP's Tract file has 2,166 Tracts, our BEH dataset uses 2,164. The two missing tracts are water/piers. Drop them from the Tracts shapefile. 
 
 ##Park Inspection data
