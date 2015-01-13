@@ -17,7 +17,7 @@
 * Review and update Sally Findley Time Estimate document
 
 ######Backburner
-
+* Email Bahman
 * Detroit Census tracts for other Andrew R. - he sent a list. 
 
 ######Done:
