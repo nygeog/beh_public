@@ -5,20 +5,23 @@
 
 ----
 
-##2014-01-13
-
-
-
-##2014-01-06
-
 #####Work Queue
 
 ######Working
 * Review and update Sally Findley Time Estimate document
+* Mapping Exclusionary Policies Update
 
 ######Backburner
 * Email Bahman
 * Detroit Census tracts for other Andrew R. - he sent a list. 
+* Maybe get a CartoDB of Rio Das Padras. 
+
+
+##2014-01-13
+Discussion on transit project and rio. 
+
+
+##2014-01-06
 
 ######Done:
 * Bader's DC Streetview grid
@@ -26,7 +29,7 @@
 James review. 95% complete
 * Creating NYC Tract Level dataset for Student request 
 * GPS walks from summer. Recheck the file sent to Gina
-* 
+
 ####From Meeting
 
 Wyckoff - Health Improvement District
