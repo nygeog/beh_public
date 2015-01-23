@@ -5,6 +5,15 @@
 
 ----
 
+
+
+##2014-01-27
+####Recently Done. 
+* Wrapped up grid points for naas/pollen
+* Sent Columbia student walkability data and helping them out with the GIS work.
+* Updated BEH-GIS site
+* Updated CPRC State Policy & Latino Health Project Maps with new data they provided
+
 #####Work Queue
 
 ######Working
