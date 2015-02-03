@@ -5,11 +5,19 @@
 
 ----
 
-####Been Loading up server with backup data, and trying to get several 100 GB of data up there and keep getting error messages saying we are out of space
+
+##2014-02-03
+
+####Other items
+* Been Loading up server with backup data, and trying to get several 100 GB of data up there and keep getting error messages saying we are out of space.
+
+* GPS Tree Canopy write-up
+
+* Support for Student with Walkability metrics. The student is unable to bring in the walkability csv effectively. Not sure how much GIS they know. 
 
 
 
-##2014-01-27
+
 ####Recently Done. 
 * Wrapped up grid points for naas/pollen
 * Sent Columbia student walkability data and helping them out with the GIS work.
@@ -17,6 +25,32 @@
 * Updated CPRC State Policy & Latino Health Project Maps with new data they provided
 
 #####Work Queue
+* NAAS geocoding, temporal addresses and school addresses geocoding. Not the cleanest address set. 
+	
+		>>> 1370 * 3
+		4110
+		>>> 4110/60. 
+		68.5 hours estimate
+
+* Characterization of NAAS home addresses. Haven't done a time estimate for this. It includes some 
+
+	* These variables are:
+		* Population density (2000 and 2010 census)
+		* % poverty (2000 and 2010 census)
+		* Median household income (2000 and 2010 census)
+		* % park land
+		* Traffic volume***
+		* Black carbon and PM2.5 two-year averages from NYCCAS (Danny, Gina said you would have this data)
+
+	* The buffer sizes we will need are 
+
+		* 0.25
+		* 0.5 
+		* 1-km radial buffers 
+		* plus 1-km network buffers. 
+
+	* At this point we will also need to use the surface Kate develops to calculate pollen exposures for the NAAS addresses. 
+
 
 ######Working
 * Review and update Sally Findley Time Estimate document
