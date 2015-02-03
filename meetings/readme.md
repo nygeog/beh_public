@@ -6,6 +6,15 @@
 ----
 
 
+Create a Time Estimate
+
+web-faction
+
+Kathy wants to rerun the Seattle dataset. 
+
+Sparcs reasses. 
+
+
 ##2014-02-03
 
 ####Other items
@@ -19,10 +28,10 @@
 
 
 ####Recently Done. 
-* Wrapped up grid points for naas/pollen
+* Wrapped up grid points for naas/pollen 
 * Sent Columbia student walkability data and helping them out with the GIS work.
 * Updated BEH-GIS site
-* Updated CPRC State Policy & Latino Health Project Maps with new data they provided
+* Updated CPRC State Policy & Latino Health Project Maps with new data they provided. Need to do some minor updates.
 
 #####Work Queue
 * NAAS geocoding, temporal addresses and school addresses geocoding. Not the cleanest address set. 
