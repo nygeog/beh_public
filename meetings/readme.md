@@ -7,14 +7,13 @@
 
 
 
-
 Create a Time Estimate for Findley
 
 web-faction
 
 Kathy wants to rerun the Seattle dataset. 
 
-Sparcs reasses. 
+Sparcs reasses with ZIP instead of ZIP+4.
 
 
 ##2014-02-03
