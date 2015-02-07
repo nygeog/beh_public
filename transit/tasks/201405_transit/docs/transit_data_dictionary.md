@@ -9,6 +9,12 @@ This project includes transit stations across the United States from 1970 - 2010
 ###[Tract City Distances](#tract_city_distances)
 * [Tract City Distances Variables](#tract_city_distances_variables)
 
+###[Census Data](#census_data)
+* [Social Explorer](#social_explorer)
+	* [Total Population](#se_tot_pop)
+	* [Means Of Transportation To Work](#sse_transpo)
+
+
 ###[Project Projection Information](#project_projection_information)
 
 #####Count of Station Data by Year
@@ -317,6 +323,38 @@ Distance (in meters) to nearest Population-weighted CSA Centroid.
 Name of nearest	Population-weighted CSA Centroid
 
  <br />
+ 
+ ***
+#<a name="census_data"></a>Census Data
+***
+
+
+
+##vehicles in the household by tract would be good. I'll probably want to come back and get income data
+Also grabbed travel time. 
+
+
+No auto ownership for 1980 and 1990 and 2000 for Social Explorer (check US Census website). 1970 had 15% tables (not sure what these are).
+
+
+Check US Census for 1990,2000,2010 (2008-2012 ACS) car ownership data
+
+##<a name="social_explorer"></a>Social Explorer
+Since the 1990 data from the US Census is difficult to obtain. The data used in this part of the project was obtained from Social Explorer (access provided by Columbia University). 
+
+######[How do I cite information on Social Explorer?](http://www.socialexplorer.com/help/3067)
+
+
+###<a name="se_totpop"></a>Total Population
+
+###<a name="se_transpo"></a>Means Of Transportation To Work
+
+
+
+
+<br />
+
+
 ***
 #<a name="project_projection_information"></a>Project Projection Information
 ***
