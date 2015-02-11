@@ -5,18 +5,19 @@
 
 ----
 
+##2015-02-10
 
+* Geocoding NAAS.
+* Rerunning the Seattle updates for Transit project. About 90% done with that.
+* Working on the Time Estimate for Findley
+* Sparcs reassess with ZIP instead of ZIP+4.
+* How many hours should James and I be dedicating per week to the data dictionary for the BEH master dataset? Version 1.0. A few hours each week. 
+* Meeting with Garazi and Gina to talk Rio on Thursday. 
 
-Create a Time Estimate for Findley
+######Discussed:
+* Grant proposal of PATs data. One to NYC, one to NIDDK with Goldsmith for Children's Center Study. 
 
-web-faction
-
-Kathy wants to rerun the Seattle dataset. 
-
-Sparcs reasses with ZIP instead of ZIP+4.
-
-
-##2014-02-03
+##2015-02-03
 
 ####Other items
 * Been Loading up server with backup data, and trying to get several 100 GB of data up there and keep getting error messages saying we are out of space.
@@ -72,11 +73,11 @@ Sparcs reasses with ZIP instead of ZIP+4.
 * Maybe get a CartoDB of Rio Das Padras. 
 
 
-##2014-01-13
+##2015-01-13
 Discussion on transit project and rio. 
 
 
-##2014-01-06
+##2015-01-06
 
 ######Done:
 * Bader's DC Streetview grid
