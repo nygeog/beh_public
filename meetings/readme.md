@@ -5,6 +5,78 @@
 
 ----
 
+##2015-02-16
+
+---
+
+Recently Completed:
+
+* Wrapped up Transit Project reprocessing 
+* and NAAS geocoding (76 hours) on Friday. 
+
+Low Estimate
+
+		>>> 1370 * 3
+		4110
+		>>> 4110/60. 
+		68.5 hours estimate
+
+High Estimate
+
+		>>> 1370 * 5
+		6850
+		>>> 6850/60. 
+		115.167 hours estimate
+
+
+
+* Monday/Weekend - GPS testing (see Rio Das Pedras below)
+
+To Do:
+
+* Findley Estimate (plan to spend next 2 days working on that)
+* NAAS Geoprocessing 
+* Restaurant Mapping
+* BEH master dataset (met with Andrew RII this morning)
+* NYC crime data scraper (maybe James could take this task if he has some free time)
+
+
+###Rio Das Pedras
+
+* iGotU GPS test:
+I tried to carry it all weekend. Friday went down to Crown Heights and then Saturday went to NJ. None of the Saturday trip was captured.  [Here’s my GPS data in a map](http://cdb.io/1zIoM5U)
+
+	* Here’s the time range:
+		* 2015-02-13T23:31:28Z
+		* 2015-02-14T16:13:59Z
+
+* Field Staff GPS data collection:
+
+	* I just built a CartoDB viz app (~1 hour) that allows for data collection/geotagging and so long as we get the users to have free accounts they can easily add points to a map. They would just need reliable cell service. The locational settings on the cell phone’s don’t need to be super precise as the user can pan and zoom on the map. I put those points on the map using my iPad today. It is much easier to scale this up and we could improve the interface as the project goes on. 
+
+	* [Rio Map](http://dms2203.cartodb.com/viz/596a42a6-b5fd-11e4-adb0-0e0c41326911/embed_map)
+
+* Rio Computer Details:
+	* Are the computers hard drives encrypted (if we need to follow Columbia’s IRB protocols)? 
+	* Will we have administrative access on them? 
+	* Will we be able to log into them via SSL? If so will they have static or dynamic IPs? Being able to log in and share the screen with the GIS staff in Rio will be very helpful to ensure data collection. 
+
+
+* What is my percent effort on this project? 
+
+
+---
+
+###NAAS 
+
+* Shooting from the hip, as there was not formal time estimate for this project, I think it'll take about a month to create the neighborhood-level variables.
+
+
+My understanding is that the next step (from our 10/10/14 email) is calculating a limited set of GIS variables around the successfully geocoded addresses: population density (2000 and 2010 census), % poverty (2000 and 2010 census), median household income (2000 and 2010 census), % park land, traffic volume, and black carbon and PM2.5 two-year averages from NYCCAS. The buffer sizes we agreed on were 0.25, 0.5, and 1-km radial buffers, plus 1-km network buffers. As I mentioned on the phone, we are hoping to add tree canopy (0.5-km radial buffer) to that list. Gina mentioned to me that it might actually save coding time to calculate tree canopy for the same set of buffer sizes you're using for the other GIS variables rather than picking out a specific buffer size -- so we're happy to do it that way if it saves you time to loop through buffer sizes!
+
+
+---
+
 ##2015-02-10
 
 * Geocoding NAAS.
