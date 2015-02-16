@@ -13,21 +13,20 @@ Recently Completed:
 
 * Wrapped up Transit Project reprocessing 
 * and NAAS geocoding (76 hours) on Friday. 
+	* Low Estimate
 
-Low Estimate
 
-		>>> 1370 * 3
-		4110
-		>>> 4110/60. 
-		68.5 hours estimate
+			>>> 1370 * 3
+			4110
+			>>> 4110/60. 
+			68.5 hours estimate
 
-High Estimate
+	* High Estimate
 
-		>>> 1370 * 5
-		6850
-		>>> 6850/60. 
-		115.167 hours estimate
-
+			>>> 1370 * 5
+			6850
+			>>> 6850/60. 
+			115.167 hours estimate
 
 
 * Monday/Weekend - GPS testing (see Rio Das Pedras below)
