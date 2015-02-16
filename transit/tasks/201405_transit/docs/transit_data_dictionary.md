@@ -24,7 +24,7 @@ This project includes transit stations across the United States from 1970 - 2010
 	2000 - 3,447
 	2010 - 4,031
 
-Tracts 2010 - input GDB n = 74,002
+Tracts 2010 - input GDB n = 74,002 - 73,676 when water is removed (missing tracts are all hydro)
 
 LTDB 2010 Population counts were verified to equal 2010 Census P0010001 data from demographic profile tract downloads. 
 
@@ -46,7 +46,7 @@ area of land in tract - (us census bureau generated)
 area of water in tract - (us census bureau generated)
 
 ####origtractarea
-original tract area in meters (projected USA Contiguous Albers Equal Area Conic)
+original tract area in meters (projected USA Contiguous Albers Equal Area Conic) clipped out water.
 
 ####csa_geoid
 CSA (Combined Statistical Area) id - [CSA US Census Bureau](http://www.census.gov/geo/reference/gtc/gtc_cbsa.html); [CSA - Wikipedia](http://en.wikipedia.org/wiki/Combined_Statistical_Area)
