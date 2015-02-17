@@ -37,7 +37,9 @@ To Do:
 * NAAS Geoprocessing 
 * Restaurant Mapping
 * BEH master dataset (met with Andrew RII this morning)
-* NYC crime data scraper (maybe James could take this task if he has some free time)
+* NYC crime data scraper
+	* Have 2013 and 2014 by month. Maybe 1-2 days of inspecting and building database.
+		 
 
 
 ###Rio Das Pedras
