@@ -32,14 +32,15 @@ Recently Completed:
 
 To Do:
 
-* Findley Estimate (plan to spend next 2 days working on that)
+* Findley Estimate (plan to spend next 2 days working on that) - Priority #1
+
 * NAAS Geoprocessing 
 * Restaurant Mapping
 * BEH master dataset (met with Andrew RII this morning)
 * NYC crime data scraper
 	* Have 2013 and 2014 by month. Maybe 1-2 days of inspecting and building database.
 		 
-
+* What is my percent effort for the Rio project? 
 
 ###Rio Das Pedras
 
