@@ -15,7 +15,6 @@ Recently Completed:
 * and NAAS geocoding (76 hours) on Friday. 
 	* Low Estimate
 
-
 			>>> 1370 * 3
 			4110
 			>>> 4110/60. 
