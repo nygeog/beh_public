@@ -5,6 +5,8 @@
 
 ----
 
+<span style="background-color: #FFFF00">Yellow text.</span>
+
 ##2015-02-16
 
 ---
