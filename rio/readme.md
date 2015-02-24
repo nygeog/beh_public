@@ -2,6 +2,8 @@
 
 ##Data and File structure
 
+---
+
 ###GPX files naming conventions
 
 * YYYYMMDD_PID_DID.gpx (underscores between numbers, use leading zeros if necessary)
