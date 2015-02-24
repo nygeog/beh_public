@@ -3,9 +3,23 @@
 -----#####Meetings from 2014-07-02 -> 2015Info:
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
-----
+---
 
 ##2015-02-24
+
+Priority:
+
+---
+
+* Rio das Pedras	
+	* Sent Garazi info and video's on using GlobalSat DG-100
+		* [GlobalSat Info](https://github.com/nygeog/gps/tree/master/devices/globalsat)	
+	* Sampling plan - what is it? We need key information about the local projection system for RdP. We need valid neighborhood geographies to generate grid points. 
+		* 100 points. 
+		* Neighborhood Geographies. 18th of March field work. B/n March 2nd and March 10th Garizi will be in the field. 
+
+---
+
 * NAAS
 	* Neighborhood geographies land area created (not including 1 km network buffer areas),
 	* Currently processing Census Variables. 
@@ -18,15 +32,12 @@
 			* Traffic volume***
 			* Black carbon and PM2.5 two-year averages from NYCCAS (Danny, Gina said you would have this data)
 			* Tree Canopy
-
 		* The buffer sizes we will need are 
-
 			* 0.25
 			* 0.5 
 			* 1-km radial buffers 
 			* plus 1-km network buffers. 
-	* I'll need the krigged surfaces from Kate W. (Zonal Stats)
-	
+	* I'll need the krigged surfaces from Kate W. (Zonal Stats). Land Use Regression. 
 	
 * [WIC Time Estimate](https://github.com/nygeog/beh_public/raw/master/wic/time_estimate/wicnys_time_estimate_20150217.pdf) 
 	* 4-8 Weeks, with 119 Count to Geocode WIC Locations. (Independent of using ZIP Code or street address geocode)
@@ -42,6 +53,14 @@
 
 * Restaurants 
 	* Waiting on formatted data from Darby
+
+* GPS Data in Urban Environment (Taxi)
+	* Recruited 3 other Data Science students to work on projects. 
+	
+* [Lion's Challenge](http://www.columbiahealthdatascience.com) - Register by March 6th. 
+	* The Center for Health Analytics, part of the Columbia University Data Science Institute, is announcing Lions’ Tracks, an app design competition to support quantified self and facilitate sharing of activity tracking information across the Columbia research community for advancing health research. 	
+* [Columbia Venture Competition](http://engineering.columbia.edu/columbia-venture-competition) 	
+	* The Columbia Venture Competition was first launched in April 2009, and has paid out more than $100,000 in prize money to early-stage ventures all founded by young Columbia entrepreneurs. Over the years the competition has grown in the number of submissions and in competition quality.
 
 ##2015-02-16
 
