@@ -5,6 +5,43 @@
 
 ----
 
+##2015-02-24
+* NAAS
+	* Neighborhood geographies land area created (not including 1 km network buffer areas),
+	* Currently processing Census Variables. 
+	* All variables
+		* These variables are:
+			* Population density (2000 and 2010 census)
+			* % poverty (2000 and 2010 census)
+			* Median household income (2000 and 2010 census)
+			* % park land
+			* Traffic volume***
+			* Black carbon and PM2.5 two-year averages from NYCCAS (Danny, Gina said you would have this data)
+			* Tree Canopy
+
+		* The buffer sizes we will need are 
+
+			* 0.25
+			* 0.5 
+			* 1-km radial buffers 
+			* plus 1-km network buffers. 
+	* I'll need the krigged surfaces from Kate W. (Zonal Stats)
+	
+	
+* [WIC Time Estimate](https://github.com/nygeog/beh_public/raw/master/wic/time_estimate/wicnys_time_estimate_20150217.pdf) 
+	* 4-8 Weeks, with 119 Count to Geocode WIC Locations. (Independent of using ZIP Code or street address geocode)
+	* WIC Vendors data is not currently available. Missing Fitnessgram data - said to get from DOHMH. 
+	* SPARKS (Sports, Play and Active Recreation for Kids) is supposedly available from DOHMH.
+	* Will need to get estimate from WalkScore. 
+
+* NETS
+	* Encrypt and send out NETS data to Bader. 
+
+* SPARCS
+	* Got unique ZIP codes by Year from David W. for SPARCS - need to revise the Time Estimate for ZIP codes. 
+
+* Restaurants 
+	* Waiting on formatted data from Darby
 
 ##2015-02-16
 
