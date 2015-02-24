@@ -83,4 +83,20 @@ Link to [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg
 This video provides an overview of the device. 
 [GlobalSat DG-100 Video](https://www.youtube.com/watch?v=-ZuWIWfxt4U) 
 
+###Devices
+Garazi has:
+The device numbers that I have:
+·         15761
+·         15838
+·         15929
+·         15934
+ 
+ 
+Chargers:
+·         R00084901061
+·         R00084901037
+·         R00104600443
+·         R00104600427
+
+
 [Top](#top)
