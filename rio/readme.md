@@ -1,8 +1,8 @@
 #Rio Das Pedras - GPS Field Study - Spring 2015
 
-##File naming conventions
+##Data and File structure
 
-###GPX files
+###GPX files naming conventions
 
 * YYYYMMDD_PID_DID.gpx (underscores between numbers, use leading zeros if necessary)
 
