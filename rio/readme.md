@@ -41,6 +41,9 @@ Each item is a folder or file, indents are subdirectories
 ###[Quantum GIS(for more easily viewing GPX data)](http://www2.qgis.org/en/site/forusers/download.html)
 * Install QGIS on laptop. 
 
+###DG-100
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/nygeog/globalsat/master/images/dg100sm.jpg)](http://www.usglobalsat.com/p-25-dg-100-gpsdata-logger.aspx)
+
 ####DG-100 Software and Drivers (download)
 1. Download the drivers and software (Windows version). [Software and Drivers](https://github.com/nygeog/globalsat#software-and-drivers-download)
 2. Install the driver. (Windows XP/ Vista/ 7 USB Drivers)
