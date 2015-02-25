@@ -56,6 +56,7 @@ Each item is a folder or file, indents are subdirectories
 2. Install the driver. (Windows XP/ Vista/ 7 USB Drivers)
 3. Install the software. (Data Utility)
 
+[Obscure Driver Error Reference for Troubleshooting Driver Issues](https://support.delorme.com/kb/articles/70-globalsat-gps-bu-353-setup-instructions)
 
 [GPS software and drivers - GlobalSat website](http://www.usglobalsat.com/s-85-dg-100-support.aspx) 
 
