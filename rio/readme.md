@@ -84,6 +84,9 @@ Link to [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg
 This video provides an overview of the device. 
 [GlobalSat DG-100 Video](https://www.youtube.com/watch?v=-ZuWIWfxt4U) 
 
+###Device Configutarion Settings
+![globalsat settings](images/gps_config_settings.png)
+
 ###Devices
 Garazi has:
 The device numbers that I have:
