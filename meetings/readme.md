@@ -5,6 +5,34 @@
 
 ---
 
+##2015-03-10
+
+---
+
+Thank for this, Danny.  As Garazi (who’s sitting across from me) just said, they look great!  And the app to facilitate the systematic social observation is well above and beyond anything expected.  It’s going to make the field data collection on the RdP environment much smoother than we had thought, which is good since there are already so many logistics for Garazi and Renata to manage (which amazingly seem to be coming together), in addition to basically teaching the interviewers full time this week.
+ 
+I’m nervous about the grid points being up for an extended period without any password to access them, since they’re so close to our recruitment points.  Garazi has grabbed screenshots of this which we’re carrying into the field, so I think we could take it down, or better yet, password protect.  We’re taking notes anyway about the outside of the building, and taking photos, so it would be simplest now that we’re including a larger segment of the team here just to take paper notes on any deviation between the assigned point location and selected recruitment site.  We can then fix them in fulcrum as a batch back at the office while we’re pulling together photos.
+ 
+Anyway, I just wanted to say thank you.  We’re working to get at least a no cost extension from Medtronic, and will try to figure out if we have additional funds to cover your efforts on this.
+ 
+Obrigada,
+Gina
+
+---
+
+Hey Danny, 
+
+This looks awesome! Thanks so much!!! I have a lunch break tomorrow from 12-1 your time or i'll finish the training around 3 your time. Let me know if you'd like to chat during either of those periods. 
+
+The sample points will be different from the street segment questions - the sample points are to identify the buildings and then launch the field teams. Unfortunately none will be "complete" prior to next week. The first would theoretically be complete on either Tuesday or Wednesday, March 24-25. 
+
+The only thing we might want to discuss is the connection between the sample point and grid layer. Gina was out in the field today mapping points and thought that dropping new points might be redundant because the gps dot is a rough approximation anyway (you almost always have to pan across 1-2 streets to get to your location) in which case it might not matter if we do this in the field or do this back in the office. The street segment app and the photos app looks great. I'll try to include photos in the street segment section as well while im walking around but the photos will be a good interface for everyone else who isn't doing the street segment questions. 
+
+Thanks again for putting so much time into this. I think it's going to work really well! 
+
+Best,
+Garazi
+
 ##2015-03-03
 
 
