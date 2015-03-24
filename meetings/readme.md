@@ -5,6 +5,9 @@
 
 ---
 
+Fulcrum, alert for required. Fulcrum, talk to for 6 month license
+
+
 ##2015-03-10
 
 ---
