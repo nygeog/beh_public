@@ -5,8 +5,46 @@
 
 ---
 
-Fulcrum, alert for required. Fulcrum, talk to for 6 month license
 
+##2015-03-31
+####News
+
+We now have a free academic account with Fulcrum. 
+
+* I agreed that we would write 1-2 blogposts. They'd like them delivered in **Markdown**. 
+* We have Unlimited Apps, Unlimited Records, and 7 Data Shares.
+* We don't have Geotagged Video Capture (have to pay for that).
+* Not sure about Count of Members, it says we have 1, then 6 on another page, then it says we can add members for $0 per new member.
+
+####Work
+
+* NAAS - 4-5 more full days for Network Buffers and documentation. 5 Geographies done for 
+	* population density (2000 and 2010 census), 
+	* % poverty (2000 and 2010 census), 
+	* median household income (2000 and 2010 census), 
+	* black carbon and 
+	* PM2.5 two-year averages from NYCCAS. 
+	* tree canopy (0.5-km radial buffer) to that list.
+	* traffic volume, and 
+	* % park land 
+
+Today I'll be trying to put out a few small projects, 
+
+* CPRC map edits. 
+* Figures for Steve. 
+* Fragile Families for Steve. 
+* Look up data for Tanya 
+* Tanya email for Esri
+* Ask Andrew where Darby (Restaurants falls in the queue)
+* Check GPS walks from RdP
+* Creating and updating a new Fulcrum form for summer 
+	 * Fulcrum, alert for required for form items.
+
+
+
+##2015-03-24
+
+Fulcrum, alert for required for form itemsFulcrum, talk to for 6 month license
 
 ##2015-03-10
 
