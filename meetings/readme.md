@@ -35,7 +35,7 @@ We now have a free academic account with Fulcrum.
 Today I'll be trying to put out a few small projects, 
 
 * CPRC map edits. 
-* Figures for Steve. 
+* Figures for Steve. Which paper is this for (check email)? 
 * Fragile Families for Steve. 
 * Look up data for Tanya. 
 * Tanya email for Esri.
@@ -56,7 +56,7 @@ Fulcrum, alert for required for form itemsFulcrum, talk to for 6 month license
 
 ---
 
-Thank for this, Danny.  As Garazi (who’s sitting across from me) just said, they look great!  And the app to facilitate the systematic social observation is well above and beyond anything expected.  It’s going to make the field data collection on the RdP environment much smoother than we had thought, which is good since there are already so many logistics for Garazi and Renata to manage (which amazingly seem to be coming together), in addition to basically teaching the interviewers full time this week.
+Thank for this, Danny. As Garazi (who’s sitting across from me) just said, they look great!  And the app to facilitate the systematic social observation is well above and beyond anything expected.  It’s going to make the field data collection on the RdP environment much smoother than we had thought, which is good since there are already so many logistics for Garazi and Renata to manage (which amazingly seem to be coming together), in addition to basically teaching the interviewers full time this week.
  
 I’m nervous about the grid points being up for an extended period without any password to access them, since they’re so close to our recruitment points.  Garazi has grabbed screenshots of this which we’re carrying into the field, so I think we could take it down, or better yet, password protect.  We’re taking notes anyway about the outside of the building, and taking photos, so it would be simplest now that we’re including a larger segment of the team here just to take paper notes on any deviation between the assigned point location and selected recruitment site.  We can then fix them in fulcrum as a batch back at the office while we’re pulling together photos.
  
