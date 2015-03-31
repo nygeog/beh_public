@@ -5,9 +5,13 @@
 
 ---
 
-
 ##2015-03-31
-####News
+####To Do:
+MyNCBI - biosketch fill up and curate for papers. Get this done in 1 Month. 
+
+[Data Haven](http://www.ctdatahaven.org/)
+
+####News:
 
 We now have a free academic account with Fulcrum. 
 
@@ -16,9 +20,9 @@ We now have a free academic account with Fulcrum.
 * We don't have Geotagged Video Capture (have to pay for that).
 * Not sure about Count of Members, it says we have 1, then 6 on another page, then it says we can add members for $0 per new member.
 
-####Work
+####Work:
 
-* NAAS - 4-5 more full days for Network Buffers and documentation. 5 Geographies done for 
+* NAAS - 4 more full days for Network Buffers and documentation. 5 Geographies done for 
 	* population density (2000 and 2010 census), 
 	* % poverty (2000 and 2010 census), 
 	* median household income (2000 and 2010 census), 
@@ -33,11 +37,13 @@ Today I'll be trying to put out a few small projects,
 * CPRC map edits. 
 * Figures for Steve. 
 * Fragile Families for Steve. 
-* Look up data for Tanya 
-* Tanya email for Esri
-* Ask Andrew where Darby (Restaurants falls in the queue)
-* Check GPS walks from RdP
-* Creating and updating a new Fulcrum form for summer 
+* Look up data for Tanya. 
+* Tanya email for Esri.
+* Ask Andrew where Darby (Restaurants falls in the queue).
+	* Later priority 1 month(?) 
+	
+* Check GPS walks from RdP.
+* Creating and updating a new Fulcrum form for summer. 
 	 * Fulcrum, alert for required for form items.
 
 
