@@ -6,13 +6,18 @@
 ---
 
 ##For 2015-04-08
+
+
 ####To Do:
 
-* MyNCBI - biosketch fill up and curate for papers. Get this done in 1 Month. 
+* Check GPS walks from RdP.
 * Streetview - dc and baltimore change distance from 500 m and 1000 m to 1000 m and 2000 m ### UPDATED ['1000','2000'] 
 * Figures for Steve. Which paper is this for (check email)? 
 * Fragile Families for Steve. 
-* Check GPS walks from RdP.
+* MyNCBI - biosketch fill up and curate for papers. Get this done in 1 Month. 
+
+
+
 
 * NAAS - 4 more full days for Network Buffers and documentation. 5 Geographies done for 
 	* population density (2000 and 2010 census), 
@@ -23,6 +28,9 @@
 	* tree canopy (0.5-km radial buffer) to that list.
 	* traffic volume, and 
 	* % park land 
+
+
+
 
 ####Done:
 * CPRC map edits. 
