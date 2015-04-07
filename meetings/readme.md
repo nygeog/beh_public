@@ -5,19 +5,49 @@
 
 ---
 
-##For 2015-04-08
-
+##2015-04-07
 
 ####To Do:
 
-* Check GPS walks from RdP.
-* Streetview - dc and baltimore change distance from 500 m and 1000 m to 1000 m and 2000 m ### UPDATED ['1000','2000'] 
-* Figures for Steve. Which paper is this for (check email)? 
+1) Steve
+2) Restaurant inspection. - touch base with James and Darby. 
+
+* Papers:
+	* NETS revise Sat. send Tanya comments
+	* Steve Walks paper. 
+
+* Schedule RdP meeting. 
+
+* EDC, SPARCS,  
+
+* Check GPS walks from RdP. What is my time comment going forward for RdP? Should we time estimate specific tasks or should we allocate a number of hours per week? 
+
+	* RdP, 44 households completed. 
+	* Of those 44, 5 decline GPS, 2 declined oral and water samples.
+	* 57% participating of households contacted participated. 
+	* Deliverable is Community Health Profile.
+	* We want 2 papers:
+		* Mobility Patterns - GPS
+			* From the same SUID what variation do we see in
+				* Time in RdP, time outside
+				* Route choice
+				
+				* Subject variability
+				
+		* Microbiome.
+		* And maybe Blogpost of something on data collection and new technology in Rio. 
+	
+	
+* Figures/Comments for Steve. Which paper is this for (check email)? 
 * Fragile Families for Steve. 
 * MyNCBI - biosketch fill up and curate for papers. Get this done in 1 Month. 
 
 
-
+####Done:
+* CPRC map edits. 
+* Look up data for Tanya. 
+* Tanya email for Esri.
+* Streetview - dc and baltimore change distance from 500 m and 1000 m to 1000 m and 2000 m ### UPDATED ['1000','2000'] 
 
 * NAAS - 4 more full days for Network Buffers and documentation. 5 Geographies done for 
 	* population density (2000 and 2010 census), 
@@ -29,16 +59,6 @@
 	* traffic volume, and 
 	* % park land 
 
-
-
-
-####Done:
-* CPRC map edits. 
-* Look up data for Tanya. 
-* Tanya email for Esri.
-
-
-
 ##2015-03-31
 ####To Do:
 MyNCBI - biosketch fill up and curate for papers. Get this done in 1 Month. 
@@ -46,7 +66,6 @@ MyNCBI - biosketch fill up and curate for papers. Get this done in 1 Month.
 [Data Haven](http://www.ctdatahaven.org/)
 
 Streetview - dc and baltimore change distance from 500 m and 1000 m to 1000 m and 2000 m ### UPDATED ['1000','2000'] 
-
 
 ####News:
 
