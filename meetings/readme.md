@@ -5,6 +5,51 @@
 
 ---
 
+
+##2015-04-14
+
+
+Stratify by block size. 
+
+
+
+Points with value of 0 vs. > 0
+
+
+
+
+Maybe send Kathryn Barley stationary GPS map. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##2015-04-07
 
 ####To Do:
