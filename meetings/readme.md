@@ -5,50 +5,17 @@
 
 ---
 
+* Send the NAAS data to Matt P. that I sent to Kate. 
 
 ##2015-04-14
 
+GPS notes
 
-Stratify by block size. 
+* Stratify by block size. 
 
+* Points with value of 0 vs. > 0
 
-
-Points with value of 0 vs. > 0
-
-
-
-
-Maybe send Kathryn Barley stationary GPS map. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Maybe send Kathryn Bartley stationary GPS map. 
 
 ##2015-04-07
 
