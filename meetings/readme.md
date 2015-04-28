@@ -5,12 +5,27 @@
 
 ---
 
+##2015-04-28
+
+* Presenting tonight on our Distributed Building Height Predicting GPS signal error as measured by Average Distance to Roadbed in Census Block. 
+	* Should be able to show some slides next week if time permits and if the stats analyst can come by. She is a CUMC employee and Biostats grad. 
+	
+* Digging through project from March 2013 for Nicolia.
+	* Rush job so, limited documentation.
+	
+* Planning on updating the online applications for data collection in the field. 
+
+* Preparing maps for RdP field visits. 
+
+* Developing curriculum for teaching open source GIS in Brazil. 
+
+
+
 ##2015-04-21
 
 Working on:
 
 * RdP mapping for study participant interviews. 
-
 
 * Sent the NAAS data to Matt P. that I sent to Kate. 
 
