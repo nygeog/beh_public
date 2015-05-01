@@ -3,6 +3,13 @@
 -----#####Meetings from 2014-07-02 -> 2015Info:
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
+
+##Show RdP Fulcrum blogpost, edits
+
+##Present Taxi data slideshow with Emilie
+
+
+
 ---
 
 ##2015-04-28
