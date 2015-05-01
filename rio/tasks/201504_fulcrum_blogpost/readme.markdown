@@ -23,6 +23,12 @@ Project Manager, Garazi Zulaika:
 
 Fulcrum hugely facilitated data collection in the field. The Fulcrum's fast synchronization allowed us to communicate in real time and field test our data collection questions with collaborators in different countries.  Fulcrum’s ability to store multiple entry points and photos allowed us to collect data throughout the entire day without accessing any internet prior to leaving the field. Another tool that was extremely useful was the Fulcrum's ability to pan away from the location set by the device’s GPS. Given our data collection is ongoing in a large informal community with informal construction methods that lead to building canyons and poor satellite reception, the ability to change the location of the device by a block or a street hugely improved the accuracy of the data being collected. We found that certain mobile devices had extremely accurate GPS locators while older devices had a harder time correctly identifying the users location. The user friendly platform allowed data collectors to tailor the questions to fit our needs in incorporating context specific questions, modifying the answer categories, adding and deleting items, and going back and editing the responses even after the entry had been completed. The Fulcrum App did not force us to answer questions in order which allowed us to mark things as we came across them while moving through the informal community. Fulcrum’s flexibility was extremely valuable and allowed us to collect data extremely efficiently and quickly. I look forward to using it again in the field! 
 
+##Geotagged images from the field
 
+![pipes](img/pipe.jpg)
+Sewer pipes in RdP.
+
+![canal](img/canal.jpg)
+Avenida canal. 
 
 
