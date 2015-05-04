@@ -26,9 +26,9 @@ Fulcrum hugely facilitated data collection in the field. The Fulcrum's fast sync
 ##Geotagged images from the field
 
 ![pipes](img/pipe.jpg)
-Sewer pipes in RdP.
+Sewer pipes in RdP geotagged photo via Fulcrum.
 
 ![canal](img/canal.jpg)
-Avenida canal. 
+Avenida canal geotagged photo via Fulcrum. 
 
 
