@@ -10,7 +10,6 @@
 [Taxi data slideshow](http://stat4701-edav-gps.github.io/)
 
 #####To Do: 
-
 * ff - resolve ID issue. 
 * naas - Kate Weinberger data questions for GIS variables.
 
