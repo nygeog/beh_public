@@ -3,10 +3,18 @@
 -----#####Meetings from 2014-07-02 -> 2015Info:
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
+##2015-05-04
 
-##Show RdP Fulcrum blogpost, edits
+[RdP Fulcrum blogpost](https://github.com/nygeog/beh_public/tree/master/rio/tasks/201504_fulcrum_blogpost)
 
-##Present Taxi data slideshow with Emilie
+[Taxi data slideshow](http://stat4701-edav-gps.github.io/)
+
+#####To Do: 
+
+* ff - resolve ID issue. 
+* naas - Kate Weinberger data questions for GIS variables.
+
+
 
 
 
