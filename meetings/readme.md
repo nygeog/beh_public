@@ -1,19 +1,24 @@
 #BEH Meetings
 
------#####Meetings from 2014-07-02 -> 2015Info:
+-----#####Meetings from 2014-07-02 -> 2015
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
 ##2015-05-04
+Notes:
 
-[RdP Fulcrum blogpost](https://github.com/nygeog/beh_public/tree/master/rio/tasks/201504_fulcrum_blogpost)
+* Walkability metric for 1990 NETS 
+
 
 [Taxi data slideshow](http://stat4701-edav-gps.github.io/)
 
+* start at slide 10
+
 #####To Do: 
-* ff - resolve ID issue. 
+* ff - resolve ID crosswalk issue. 
 * naas - Kate Weinberger data questions for GIS variables.
-
-
+* rdp - Preparing maps for RdP field visits. 
+* rdp - [RdP Fulcrum blogpost](https://github.com/nygeog/beh_public/tree/master/rio/tasks/201504_fulcrum_blogpost)
+	* Community Health Diagnosis - Community Needs Assessment
 
 
 
@@ -22,7 +27,7 @@
 ##2015-04-28
 
 * Presenting tonight on our Distributed Building Height Predicting GPS signal error as measured by Average Distance to Roadbed in Census Block. 
-	* Should be able to show some slides next week if time permits and if the stats analyst can come by. She is a CUMC employee and Biostats grad. 
+	* Should be able to show some slides next week if time permits.
 	
 * Digging through project from March 2013 for Nicolia.
 	* Rush job so, limited documentation.
