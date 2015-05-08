@@ -16,7 +16,7 @@ The initial phases of the project involved planning out participant recruitment 
 
 We piloted the test app for data collection in March 2015. Based on the first data collection experience, we were able to create a new modified Fulcrum App and also add our own [Map Layers](http://fulcrumapp.com/help/adding-layers/) with additional street labels not on OpenStreetMap. The team returned to the field again this May for a more exhaustive and complete round of data collection. 
 
-![aerial](img/phone.jpg)
+![aerial](img/app.png)
 
 Our Fulcrum App.
 
