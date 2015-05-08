@@ -18,7 +18,7 @@ We piloted the test app for data collection in March 2015. Based on the first da
 
 ![app](img/app_screenshot.png)
 
-Our Fulcrum App.
+BEH Street Segment Questions v2 on the Fulcrum App.
 
 ##Notes from the field
 Project Coordinator, Garazi Zulaika:
