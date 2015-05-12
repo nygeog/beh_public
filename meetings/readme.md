@@ -3,16 +3,29 @@
 -----#####Meetings from 2014-07-02 -> 2015
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
-##2015-05-11
-To Do:
+##2015-05-12
 
-###Rio Das Pedras
+#####[Black Women's Health Study](http://www.bu.edu/bwhs/)
+
+* Interested in Street View Disorder measures. 
+* 50,000 participants. 
+* Across US. 
+* Every 2 years, 1995 - 2013. Self-reported health data. 
+* 2 papers, urbanism predict BMI and walking. 
+* Potential 4 city study.
+	* Chicago
+	* NYC
+	* LA
+	* Atlanta
+
+###To Do:
+
+#####Rio Das Pedras
 
 * Maps
 	* The root folder has each participants GPS traces (**134** maps - 1 map for RdP area, 1 for full feature envelope). 
 	* The day folder has each participants GPS traces broken up by day (**580** maps - 1 map for RdP area, 1 for full feature envelope). 
 	* **714** maps total 
-	
 	
 
 * [Street audit progress on Fulcrum Map](http://beh-gis.github.io/projects/rdp/)
@@ -43,7 +56,7 @@ CartoDB Payments
 
 ![cartodb](img/cartodb_invoices.png)
 
-##2015-05-04
+##2015-05-05
 Notes:
 
 * Walkability metric for 1990 NETS 
