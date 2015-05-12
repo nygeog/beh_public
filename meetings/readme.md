@@ -3,11 +3,39 @@
 -----#####Meetings from 2014-07-02 -> 2015
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
+##2015-05-11
+To Do:
+
+###Rio Das Pedras
+
+* [Street audit progress on Fulcrum Map](http://beh-gis.github.io/projects/rdp/)
+* Using DateTime, adjust the GPX file timestamps to local Brazil time, have them in GMT currently. 
+* add timestamp labels for hours
+* consider adding OpenStreetMap labels using Maplex or some coded label generation script. 
+* add Day of week (Friday…) to dated map title? 
+* rerun the export mxd scripts 
+* Misc
+
+	* RdP GPX files and password coming from same email address. 
+	* RdP GPS devices not wiped, contain NYC 2014 student walks data. 
+	* [RdP Map of Orthophoto's restricted by Brazil.](ftp://geoftp.ibge.gov.br/imagens_aereas/ortofoto/projeto_rj_escala_25mil/RJ25_folhas_sigilosas.pdf)
+
+###Hardware Purchases
+
+* Running low on backup disk space. Need some additional hardware. 
+
+###Software Purchases
+
+* Paying out of pocket for CartoDB since March. 
+CartoDB Payments 
+* $127.41
+
+![cartodb](img/cartodb_invoices.png)
+
 ##2015-05-04
 Notes:
 
 * Walkability metric for 1990 NETS 
-
 
 [Taxi data slideshow](http://stat4701-edav-gps.github.io/)
 
