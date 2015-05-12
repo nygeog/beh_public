@@ -28,6 +28,9 @@ To Do:
 	* RdP GPS devices not wiped, contain NYC 2014 student walks data. 
 	* [RdP Map of Orthophoto's restricted by Brazil.](ftp://geoftp.ibge.gov.br/imagens_aereas/ortofoto/projeto_rj_escala_25mil/RJ25_folhas_sigilosas.pdf)
 
+
+* Ask about how to coordinate to set up a short course in GIS in Rio. 
+
 ###Hardware Purchases
 
 * Running low on backup disk space. Need some additional hardware. 
