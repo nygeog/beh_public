@@ -30,23 +30,30 @@
 
 * [Street audit progress on Fulcrum Map](http://beh-gis.github.io/projects/rdp/)
 * Using DateTime, adjust the GPX file timestamps to local Brazil time (+3), have them in GMT currently. 
-* add timestamp labels for hours
-* consider adding OpenStreetMap labels using Maplex or some coded label generation script. 
-* add Day of week (Friday…) to dated map title? 
-* scale bars for very tiny GPS trace extents? 
-* rerun the export mxd scripts 
+* Add timestamp labels for hours
+* Consider adding OpenStreetMap labels using Maplex or some coded label generation script. 
+* Add Day of week (Friday…) to dated map title? 
+* Scale bars for very tiny GPS trace extents? 
+* Rerun the export mxd scripts 
 * Misc
 
 	* RdP GPX files and password coming from same email address. 
 	* RdP GPS devices not wiped, contain NYC 2014 student walks data. 
 	* [RdP Map of Orthophoto's restricted by Brazil.](ftp://geoftp.ibge.gov.br/imagens_aereas/ortofoto/projeto_rj_escala_25mil/RJ25_folhas_sigilosas.pdf)
 
+* Add GPS device id to master database.  
 
 * Ask about how to coordinate to set up a short course in GIS in Rio. 
 
+#####Robin Hood
+* Geocoding. Review addresses sent by David/Kathy. 
+
+#####Restaurants
+* Send James Census data for Restaurants. 
+
 ###Hardware Purchases
 
-* Running low on backup disk space. Need some additional hardware. 
+* Running low on backup disk space. Need some additional hardware. [4 TB LaCie Drives.](http://www.amazon.com/LaCie-Quadra-External-Drive-9000258U/dp/B00AK9ZT98/ref=sr_1_1?ie=UTF8&qid=1431440758&sr=8-1&keywords=lacie+4+tb) 
 
 ###Software Purchases
 
