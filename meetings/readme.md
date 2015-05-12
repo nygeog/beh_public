@@ -8,11 +8,19 @@ To Do:
 
 ###Rio Das Pedras
 
+* Maps
+	* The root folder has each participants GPS traces (**134** maps - 1 map for RdP area, 1 for full feature envelope). 
+	* The day folder has each participants GPS traces broken up by day (**580** maps - 1 map for RdP area, 1 for full feature envelope). 
+	* **714** maps total 
+	
+	
+
 * [Street audit progress on Fulcrum Map](http://beh-gis.github.io/projects/rdp/)
-* Using DateTime, adjust the GPX file timestamps to local Brazil time, have them in GMT currently. 
+* Using DateTime, adjust the GPX file timestamps to local Brazil time (+3), have them in GMT currently. 
 * add timestamp labels for hours
 * consider adding OpenStreetMap labels using Maplex or some coded label generation script. 
 * add Day of week (Friday…) to dated map title? 
+* scale bars for very tiny GPS trace extents? 
 * rerun the export mxd scripts 
 * Misc
 
