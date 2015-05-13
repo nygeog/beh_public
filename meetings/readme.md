@@ -32,8 +32,8 @@
 * Using DateTime, adjust the GPX file timestamps to local Brazil time (+3), have them in GMT currently. 
 * Add timestamp labels for hours
 * Consider adding OpenStreetMap labels using Maplex or some coded label generation script. 
-* Add Day of week (Friday…) to dated map title? 
-* Scale bars for very tiny GPS trace extents? 
+* Add Day of week (Friday…) to dated map title
+* Scale bars for very tiny GPS trace extents
 * Rerun the export mxd scripts 
 * Misc
 
@@ -41,7 +41,7 @@
 	* RdP GPS devices not wiped, contain NYC 2014 student walks data. 
 	* [RdP Map of Orthophoto's restricted by Brazil.](ftp://geoftp.ibge.gov.br/imagens_aereas/ortofoto/projeto_rj_escala_25mil/RJ25_folhas_sigilosas.pdf)
 
-* Add GPS device id to master database.  
+* <strike>Add GPS device id to master database.</strike>
 
 * Ask about how to coordinate to set up a short course in GIS in Rio. 
 
