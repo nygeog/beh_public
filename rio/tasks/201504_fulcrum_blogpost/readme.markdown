@@ -7,7 +7,7 @@ Led by [Dr. Gina Lovasi](http://www.mailman.columbia.edu/our-faculty/profile?uni
 
 ####Rio Das Pedras, Rio de Janiero, Brazil 
 ![aerial](img/brasil_gov_rdp_aerial.png)
-Source: Instituto Brasileiro de Geografia e Estatística
+*Source: Instituto Brasileiro de Geografia e Estatística*
 
 ##Discovering Fulcrum
 The initial phases of the project involved planning out participant recruitment and data collection via interviews, collection of water and saliva samples, and GPS based mobility monitoring, to be followed by linkage to data on neighborhood environmental conditions in Rio das Pedras.  Our usual approach to describing neighborhood built, social and environmental conditions is to use GIS tools and governmental administrative data or commercially sourced data, however such data are not available for Rio das Pedras.  Another approach we take to gather data on neighborhood conditions is to conduct [Virtual Street Audits (also called Systematic Social Observation) using Google Street View and our CANVAS tool](http://beh.columbia.edu/2015/01/05/new-research-using-google-street-view-to-conduct-neighborhood-virtual-audits/).   Unfortunately, Google Street View is not available for most streets and alleyways in Rio das Pedras.  It quickly became clear that we would need to conduct our own field studies to collect data and photos to support our understanding and documentation of the built environment.   It was also clear that we needed a tool to collect neighborhood audit data, to organize field notes, a way to geotag photos and way to provide our field team with maps to navigate the neighborhoods in a community that lacked formal street names and house numbering systems. 
@@ -17,12 +17,12 @@ The initial phases of the project involved planning out participant recruitment 
 
 ![app](img/app_screenshot_form.png)
 
-BEH Systematic Social Observation form on the Fulcrum App for iPhone.
+*BEH Systematic Social Observation form on the Fulcrum App for iPhone.*
 
 
 ![app](img/app_screenshot_map.png)
 
-BEH Systematic Social Observation map on the Fulcrum App for iPhone.
+*BEH Systematic Social Observation map on the Fulcrum App for iPhone.*
 
 We piloted the test app for data collection in March 2015. Based on our experience from March, we were able to create a new modified Fulcrum App and also add our own [Map Layers](http://fulcrumapp.com/help/adding-layers/).  The team returned to the field again early this May for a more exhaustive and complete round of data collection. 
 
@@ -35,11 +35,11 @@ Project Coordinator, Garazi Zulaika:
 
 ![pipes](img/pipe.jpg)
 
-Sewer pipes in Rio das Pedras geotagged photo from the Fulcrum app.
+*Sewer pipes in Rio das Pedras geotagged photo from the Fulcrum app.*
 
 ![canal](img/canal.jpg)
 
-Avenida Canal in Rio das Pedras geotagged photo via the Fulcrum app. 
+*Avenida Canal in Rio das Pedras geotagged photo via the Fulcrum app.*
 
 ##Parting note
 Working with the Fulcrum App and getting support from the Fulcrum team has greatly enhanced our data collection capabilities. We hope to provide a future blogpost as follow-up to our second field data collection effort. 
