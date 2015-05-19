@@ -3,6 +3,22 @@
 -----#####Meetings from 2014-07-02 -> 2015
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
+##2015-05-19
+
+#####Robin Hood
+* There are 2081 in p3m dataset
+
+	* 261 that are missing data in field **p3m_streetAddress** (**13%** of 2081)
+	* 1820 in p3m dataset that are Not Missing address data  (**87%** of 2081)
+
+		* Of 1820, 1488 geocoded on first pass with GeoSupport Desktop. (**82%** of 1820, **72%** of the total 2081)	
+		* Of 1820, 332 failed. (**18%** of 1820)
+			* Of 332, 174 (**52%** of 332) appear to have missing house numbers. 
+			* Of 332, 158 (**48%** of 332) appear to have house numbers. 
+	
+#####RdP
+* Received Week 7 GPX data, processed data and updated maps last night. 
+	 
 ##2015-05-12
 
 #####[Black Women's Health Study](http://www.bu.edu/bwhs/)
