@@ -3,6 +3,24 @@
 -----#####Meetings from 2014-07-02 -> 2015
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
+##2015-05-22 Call with Andrew Rundle
+
+####Rachel Miller - children's center
+
+* 130 particpants.
+* 260 files. 5 seconds or 15 seconds. 
+* gps 140 kids n. manhattan and bx 10 year old kids
+* 2 days of data, then a week later, 2 more days of data
+* gps and time match to accel.
+* which gps points are near parks, highways, home, school,
+* geocode home addresses, schools
+* distance to park. 
+* look at tree canopy cover
+* describe each waypoint
+* home school - how much time is spent in home, and at the school. 
+* is this point w/in quarter mile of a truck route near. 
+* pct tree canopy variable
+
 ##2015-05-19
 
 #####Robin Hood
