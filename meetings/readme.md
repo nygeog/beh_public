@@ -1,7 +1,7 @@
 #BEH Meetings
 
 -----#####Meetings from 2014-07-02 -> 2015
-* 9-1 (605) 475-6700 (372835)  code 169-6028
+* 9-1 (605) 475-6700 (372835) - code 169-6028
 
 ##2015-06-02
 
@@ -13,11 +13,26 @@
 ####Work Queue
 * Review 50 or so Robin Hood addresses that did not geocode. 
 	* All GIS alternatives have been reviewed, if possible RH team could review notes and printed documents. 
+	* Results:
+		* There are 2081 records in p3m dataset. 
+			* 260 that are missing data in field p3m_streetAddress (12.5% of 2081) and thus are ungeocodable to anything finer than a ZIP code or ambiguously along a street polyline. 
+			* 1821 in p3m dataset that are not missing address data in the input p3m_streetAddress field (87.5% of 2081). These 1821 records were entered into the geocoding process. 
+				* As a result of 3 rounds of geocoding and address and building look ups, 1771 (85.1% of 2081 and 97.3% of 1821) have valid BIN’s (Building Identification Number) and thus valid x,y coordinates.
+				* 50 have p3m_streetAddress but have not been geocoded (2.4% of 2081 and 2.7% of 1821) due to errors in the original data entered, not being in New York City, missing address House Number’s or being post office (P.O. boxes) boxes. See Ungeocoded.csv for notes, etc.
+	
 * Get back on task with Darby's restaurant paper. Find out what he needs to send and what GIS work/mapping needs to be done. 
 * Spend some time cleaning up drives and doing some data storage and backup maintenance. 3-4 hours.
 * Develop a Time Estimate for Rachel Miller's work.
 * Extract and send Garazi the data collected w/ Fulcrum app.
 * Prepare map and review text for Andrew's Social Epi blogpost.  
+* Fragile Families ID - fragile families key memo into P: drive.
+* Try and set up an RdP file folder for the BEH server. 
+* Send Kathy the DOH PATS survey PDF.
+
+
+####GIS queue
+* Findley - WIC Locations
+
 
 
 ##2015-05-22 Call with Andrew 
