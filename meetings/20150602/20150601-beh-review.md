@@ -30,8 +30,8 @@
 
 * ###3) Salary and Professional Development 
 	* Unless any catastrophes with the Algorithms course or Machine Learning, I’m dedicated to completing the Data Science Certificate program thru May 2016. During or after that I would like to keep growing skills and my toolbox while maintaining a match of salary to skill set and work/life balance. 
-	* I think the time I spend helping graduate students and other unfunded work that exceeds the standard workweek might be better well spent doing more paid outside work, instruction, professional development and freelance work. 
-		* A GIS Librarian at NYU wanted to put me in touch with Dustin Duncan at NYU about doing some contract GIS work. It sounded fairly lucrative but a possible conflict with BEH's aims. For whom and what work can I do outside of BEH? Do I have to disclose all my work outside of Columbia? 
+	* I think the time I spend helping graduate students and other unfunded work that exceeds the standard work week might be better well spent doing more paid outside work, instruction, professional development and freelance work. 
+		* A GIS Librarian at NYU wanted to put me in touch with someone at NYU about doing some contract GIS work. It sounded fairly lucrative but a possible conflict with BEH's aims. For whom and what work can I do outside of BEH? Do I have to disclose all my work outside of Columbia? 
 	* If Columbia cannot meet my salary/benefits requirements, we should discuss hiring/training a replacement and best ways for me to wrap. 
 
 * ###4) Specific Projects and Requests
