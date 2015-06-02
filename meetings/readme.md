@@ -3,7 +3,24 @@
 -----#####Meetings from 2014-07-02 -> 2015
 * 9-1 (605) 475-6700 (372835)  code 169-6028
 
-##2015-05-22 Call with Andrew Rundle
+##2015-06-02
+
+####Days Off Request
+* 6/4-6/5 I scheduled some meetings with some Esri folks, CartoDB, etc., before SOTM so I would like to request that time off. I have some SOTM events on 6/8 that I also might need to take off for. 
+* 6/25-7/7 - wedding in Colorado - total of 7 days off. 
+* Might need to use some other vacation before July 1 so I do not lose accrued days from this past year. 
+
+####Work Queue
+* Review 50 or so Robin Hood addresses that did not geocode. 
+	* All GIS alternatives have been reviewed, if possible RH team could review notes and printed documents. 
+* Get back on task with Darby's restaurant paper. Find out what he needs to send and what GIS work/mapping needs to be done. 
+* Spend some time cleaning up drives and doing some data storage and backup maintenance. 3-4 hours.
+* Develop a Time Estimate for Rachel Miller's work.
+* Extract and send Garazi the data collected w/ Fulcrum app.
+* Prepare map and review text for Andrew's Social Epi blogpost.  
+
+
+##2015-05-22 Call with Andrew 
 
 ####Rachel Miller - children's center
 
