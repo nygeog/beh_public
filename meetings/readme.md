@@ -5,6 +5,31 @@
 
 ##2015-06-09
 
+###Monthly GIS Planning Session
+
+1st Tuesday of each month could be our meeting time.
+
+Build Version 1.0
+
+* build workflow and documentation
+
+Aim for Version 1.0 July 1.
+
+Public Launch in September. 
+
+GIS Projects:
+
+* EDC Data is in-house. 2009-2013 ACS Data
+
+RISE
+
+* Microbiology. 45 individuals - swipe bodies w/ cu-tips, then swipes of bathrooms of places in bronx/n. manhattan 45 restaurants. 
+	* geocode and 1 km buffers around them.
+
+* Jose Luchsinger has got funds for geocoding. Look through documentation.   
+
+###BEH Meeting
+
 ####BEH Data Portal 
 
 * [BEH Data Portal Presentation](http://beh-gis.github.io/data/presentation)
