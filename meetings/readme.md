@@ -3,12 +3,28 @@
 -----#####Meetings from 2014-07-02 -> 2015
 * 9-1 (605) 475-6700 (372835) - code 169-6028
 
-##2015-06-02
+##2015-06-09
 
+####BEH Data Portal 
+
+* [BEH Data Portal Presentation](http://beh-gis.github.io/data/presentation)
+* [BEH Data Portal](http://beh-gis.github.io/data/)
+
+####Work Queue
+* Continue on the data portal master dataset for the geographies
+	* [The shared Google Doc with James](https://docs.google.com/document/d/18rnWEFltB_vMM2tLBfkC632t6XhsEzx2HyGlz3NoGh8/edit#heading=h.t5z2nrhek5zs)
+* Follow up with 50 ungeocoded addresses for Robin Hood.
+* Fragile Families ID - fragile families key memo into P: drive.
+* Try and set up an RdP file folder for the BEH server. 
+
+	
 ####Days Off Request
-* 6/4-6/5 I scheduled some meetings with some Esri folks, CartoDB, etc., before SOTM so I would like to request that time off. I have some SOTM events on 6/8 that I also might need to take off for. 
 * 6/25-7/7 - wedding in Colorado - total of 7 days off. 
 * Might need to use some other vacation before July 1 so I do not lose accrued days from this past year. 
+
+
+
+##2015-06-02
 
 ####Work Queue
 * Review 50 or so Robin Hood addresses that did not geocode. 
