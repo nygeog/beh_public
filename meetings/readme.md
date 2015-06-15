@@ -3,6 +3,15 @@
 -----#####Meetings from 2014-07-02 -> 2015
 * 9-1 (605) 475-6700 (372835) - code 169-6028
 
+##2015-06-16
+
+Working on RdP Summer work Time Estimate.
+
+Few more days on version 1.0 of the data portal. 
+
+
+
+
 ##2015-06-09
 
 ###Monthly GIS Planning Session
