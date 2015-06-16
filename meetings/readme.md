@@ -10,9 +10,10 @@
 
 ####Map Comments
 * Dropdown - organized by theme, either with additional buttons. 
-* Toggle off variables geojson. 
+* Toggle off variables to see basemap (Leaflet). 
 * Maybe turn on/off aerial imagery. - my comment. Not necessary. 
-
+* Add flag field for parks, airports, cemetary, etc.
+* Add all walkability components to infoWindow
 
 ##2015-06-09
 ###Monthly GIS Planning Session
