@@ -1,41 +1,38 @@
 #BEH Meetings
-
------#####Meetings from 2014-07-02 -> 2015
-* 9-1 (605) 475-6700 (372835) - code 169-6028
+-----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 
 ##2015-06-16
+####Work Queue
+* Working on RdP Summer work Time Estimate.
+* Few more days on version 1.0 of the data portal. 
+* Get RISE data from Andrew. 
+* Jose Luchsinger has got funds for geocoding. Look through documentation.   
 
-Working on RdP Summer work Time Estimate.
-
-Few more days on version 1.0 of the data portal. 
-
-
+####Map Comments
+* Dropdown - organized by theme, either with additional buttons. 
+* Toggle off variables geojson. 
+* Maybe turn on/off aerial imagery. - my comment. Not necessary. 
 
 
 ##2015-06-09
-
 ###Monthly GIS Planning Session
-
 1st Tuesday of each month could be our meeting time.
 
-Build Version 1.0
-
-* build workflow and documentation
-
-Aim for Version 1.0 July 1.
-
-Public Launch in September. 
+* Data Portal 
+	* Build Version 1.0
+	* Build workflow and documentation
+	* Aim for Version 1.0 July 1.
+	* Public Launch in September. 
 
 GIS Projects:
 
 * EDC Data is in-house. 2009-2013 ACS Data
+* RISE
+	* Microbiology. 45 individuals - swipe bodies w/ cu-tips, then swipes of bathrooms of places in bronx/n. manhattan 45 restaurants. 
+	* Geocode and 1 km buffers around them.
 
-RISE
-
-* Microbiology. 45 individuals - swipe bodies w/ cu-tips, then swipes of bathrooms of places in bronx/n. manhattan 45 restaurants. 
-	* geocode and 1 km buffers around them.
-
-* Jose Luchsinger has got funds for geocoding. Look through documentation.   
+* Luchsinger
+	* Jose Luchsinger has got funds for geocoding. Look through documentation.   
 
 ###BEH Meeting
 
