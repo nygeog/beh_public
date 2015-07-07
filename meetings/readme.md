@@ -4,22 +4,43 @@
 
 
 ##2015-07-07
-### BEH Meeting and Monthly GIS Planning Session
+###BEH Meeting and Monthly GIS Planning Session
 
+####NETS notes
+* NETS 52.4 million points
 
-####Working on/Completed
+####Work Queue
+
+#####RdP
 * Completed and working on part of Task 2 - Tabular data for participants and geoprocessing. 
-* Create maps for 
+* Create maps for Sampling Grid.
+* For RdP neighborhood intersect, change to near function. Do both intersect yes,no and near distance to RdP polygon.
 
+
+#####Fulcrum
+* Develop a standard Time Estimate for SSO
+	* deploy MPH students
+	* how much GIS time setup per item, x # points, y # of items
+	* time to develop questions roll out revisions. 
+	* figure out how long RdP to get an idea of standard time.  
+
+#####Fragile Families 
+* Contact Michael Weisner about getting access to cold room and tracking down that file. 
+	* note to ask: but don't we not have the right id's. 
+
+#####Rise
 
 * Need to get RISE data from Andrew. 
 
-
 ####Data Portal
 * Some of the viz json's aren't working. 
-* data-portal - 1) possible to make the data layer slightly more transparent, so that the underlying street grid is easier to see?
-* data-portal - 2) can the data dictionary list the origin of the data?  maybe give a "suggested citation" somewhere?
+* Darby suggestions:
+	* 1) possible to make the data layer slightly more transparent, so that the underlying street grid is easier to see?
+	* 2) can the data dictionary list the origin of the data?  maybe give a "suggested citation" somewhere?
 * cohd - send rundle time estimate for luchsinger from March 2014
+
+
+#Other Stuff:
 
 
 ##2015-06-16
