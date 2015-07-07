@@ -1,6 +1,27 @@
 #BEH Meetings
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 
+
+
+##2015-07-07
+### BEH Meeting and Monthly GIS Planning Session
+
+
+####Working on/Completed
+* Completed and working on part of Task 2 - Tabular data for participants and geoprocessing. 
+* Create maps for 
+
+
+* Need to get RISE data from Andrew. 
+
+
+####Data Portal
+* Some of the viz json's aren't working. 
+* data-portal - 1) possible to make the data layer slightly more transparent, so that the underlying street grid is easier to see?
+* data-portal - 2) can the data dictionary list the origin of the data?  maybe give a "suggested citation" somewhere?
+* cohd - send rundle time estimate for luchsinger from March 2014
+
+
 ##2015-06-16
 ####Work Queue
 * Working on RdP Summer work Time Estimate.
