@@ -1,7 +1,18 @@
 #BEH Meetings
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 
+##2015-07-14
+###BEH Meeting
 
+####Work Queue
+
+#####RISE 
+* Time Estimate
+
+####RdP 
+* Work through tasks from Summer 2015 Time Estimate
+
+####Fragile Families
 
 ##2015-07-07
 ###BEH Meeting and Monthly GIS Planning Session
