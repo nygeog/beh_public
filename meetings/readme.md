@@ -4,6 +4,16 @@
 ##2015-07-14
 ###BEH Meeting
 
+label make things invisible
+percent foriegn born
+percent hispanic
+
+cites to papers that have used the measures 
+subway data layers
+
+export map as pdf 
+
+
 ####Work Queue
 
 #####RISE 
