@@ -1,12 +1,12 @@
 #BEH Meetings
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
-
+605 475-6700
 
 ##Next Meeting August? or last Tuesday of July
 
 * 650 new Robin Hood Addresses
 * Received Data Portal Comments
-
+* Driscoll Project
 
 ##2015-07-14
 ###BEH Meeting
