@@ -4,8 +4,20 @@
 
 ##Next Meeting August? or last Tuesday of July
 
-* 650 new Robin Hood Addresses
+* rise questions - geocoding?
+	* 45 homes, 45 restaurants
+* rise questions - presence of school - all schools, ask james...
+* rise - review/revise time estimate for RISE
+* rise - need to track down private and parochial schools. 
+* rise - grab addresses
+
+* 650 new Robin Hood Addresses - got the file yesterday.
+	* Followup with Kathy to find out if there are additional lines. 
+
 * Received Data Portal Comments
+	* Julien
+	* Multi user support for uploading data. 
+	 
 * Driscoll Project
 
 ##2015-07-14
