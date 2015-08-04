@@ -2,7 +2,64 @@
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 605 475-6700
 
-##Next Meeting August? or last Tuesday of July
+##2015-08-04
+
+* SFTP - email alain and let him know that some data is up there that is not encrypted. 
+
+* 6000 trip segments, what % are pedestrian? 
+* for each person, total number of pedestrian trips. 
+
+total number of trips. 
+
+strip Lat,Lng Start and End points. 
+
+
+* Robin Hood - talk to Kathy on Chris. 
+
+* Massive crime geocoding dataset
+
+
+* RdP
+	* Gather and catalog GPS devices.
+	* Shift home points from Garazi's notes.
+	* Ask Question about Time connecting epochs. 
+
+		* How far are those points. 
+		* Is there an industry standard for GPS missing time. 
+			* Ohio State
+			* UCSD - Kevin Patrick - see if they have anything on time gaps. 
+			* 
+
+* Time Estimate for Andrew - physical activity and air pollution. northern manhattan/bronx.
+
+Bill time estimate to CPRC - track hours and put CPRC logo on Time Estimate document. Do the same for Robin Hood. 
+
+There are 140 kids for whom there is a 24 hr monitoring period with both GPS and accelerometer (ACC) data and then there is 5 day GPS monitoring period where the last day also included ACC monitoring.  So there are 280 ACC files.  Each ACC file has a header with subject ID, gender age and summary statistics and then time stamped epoch by epoch activity data with counts, energy expenditure and flag telling us if the epoch was a sedentary, light, moderate or vigorous activity epoch.  So you would need to write a script that opens each ACC file and reads the epoch-by-epoch data into a STATA of spreadsheet file.  For each 1 day ACC file there will probably only be at best about an hour of vig or mod activity.  The time stamps from these ACC epochs then need to be used to identify GPS points that occurred during the activity periods.  These activity associated waypoints then need to be characterized   as follows.
+ 
+ 
+The first step in achieving my overall goal would be to determine MVA that takes place:
+
+1. indoor vs. outdoor
+2. in outdoor green space (eg. park, playground, ball fields, track, basketball court, etc.)
+3. on sidewalks or roadbeds
+ 
+The next set of variables, which actually get to the primary objectives of the study would be to look at:
+
+1. distance to roadway ≤ 2 lanes
+2. distance to roadway > 2 lanes
+3. distance to truck route
+4. distance to highway
+ 
+I don’t have experience with using the NYCCAS data so I am a bit unfamiliar with how the data is stored. However, if possible I think it would also be interesting to categorize during MVA, exposure to:
+
+1. elemental carbon (we have personal black carbon measurements for the kids so this would be a good variable to use to compare with our personal measurements)
+2. PM2.5
+3. nitric oxide
+4. nitrogen dioxide
+5. ozone
+6. sulfur dioxide
+
+##2015-07-28
 
 * rise questions - geocoding?
 	* 45 homes, 45 restaurants
