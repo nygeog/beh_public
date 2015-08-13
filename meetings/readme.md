@@ -2,6 +2,49 @@
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 605 475-6700
 
+
+##2015-08-11 GIS Call
+
+Plan this week was: 
+
+Robin Hood
+
+* to do 665 geocoding
+
+Driscoll Project
+
+* Change methods to process all GPS points with geoprocessing, then last step would be to match up to ACC data.
+
+They'll get back in a week or two. 
+
+Need - 
+
+* Rise data
+
+
+RdP
+
+* Holding pattern, wait for Gina
+* Epochs question for Gina we talked about last week. 
+	* email about 
+
+* Been searching for how to deal with missing data, can't find anything in the literature that shines light on how to deal with it. 
+
+
+
+SEND ANDREW RISE TIME ESTIMATE - WORD DOC - 
+
+EMAIL CHRIS again 2-3 days. 
+
+
+Do we need the crosswalk or do we need to send them this data?
+
+	Andrew has signed off on data dictionary.   
+	
+	
+* UCSD Palms
+*
+
 ##2015-08-04
 
 * SFTP - email alain and let him know that some data is up there that is not encrypted. 
@@ -28,7 +71,7 @@ strip Lat,Lng Start and End points.
 		* Is there an industry standard for GPS missing time. 
 			* Ohio State
 			* UCSD - Kevin Patrick - see if they have anything on time gaps. 
-			* 
+			
 
 * Time Estimate for Andrew - physical activity and air pollution. northern manhattan/bronx.
 
