@@ -3,6 +3,35 @@
 605 475-6700
 
 
+##2015-09-01 BEH Meeting
+
+###Projects:
+####Resistome
+* Completed Geocoding for Subjects and Restaurants
+* Construced the following neighborhood definitions:
+	* Buffers
+		* Radial 0.5 km
+		* Radial 1 km 
+		* Network 0.5 km
+		* Network 1 km
+		
+* Completed the following variables:
+	* Administrative bounds for points
+	* Census Demographic variables (ACS 5-year 2008-2011)
+	* Farmers Markets
+	* Slaughter Houses
+
+* [Data Dictionary Link](
+ 
+####Robin Hood
+
+* Finished 2nd Round of Robin Hood geocoding and added corrected 1st round from surveys. 
+
+* I noticed from the 1st round updates from Matt Maury a note in the spreadsheet caught me eye. "Address doesn't come up on google maps." There was some back and forth emails and Kathy mentioned using: beenVerified and Intellius. Are these services approved by the IRB? If so, and they use the Google Maps API for geocoding or verifying addresses, do these services then violate the IRB? 
+
+####Fragile Families
+The last time I used the cold room, Abhishek had setup a Fragile Families user login on Windows. Since going down there, it appears there is a Windows Disk Mounting password that I've never seen before. I've been communicating with Michael Weisner and as of last correspondence he cannot mount the disk. I have the information backed up, even though I was told to remove it from my machine and put in cold room. 
+
 ##2015-08-11 GIS Call
 
 Plan this week was: 
