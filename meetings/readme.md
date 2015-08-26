@@ -21,7 +21,12 @@
 	* Farmers Markets
 	* Slaughter Houses
 
-* [Data Dictionary Link](
+* [Data Dictionary Link](https://github.com/nygeog/beh_public/blob/master/resistome/docs/data_dictionary/resistome_data_dictionary_20150820.pdf)
+ 
+ 
+* To Do: 
+	* Maybe Update Slaughterhouses data - geocoding NYS Ag and Market data. Used Quinn 2009 version. 
+	* Maybe update Census data to more current ACS? used 2008-2012 
  
 ####Robin Hood
 
@@ -31,6 +36,16 @@
 
 ####Fragile Families
 The last time I used the cold room, Abhishek had setup a Fragile Families user login on Windows. Since going down there, it appears there is a Windows Disk Mounting password that I've never seen before. I've been communicating with Michael Weisner and as of last correspondence he cannot mount the disk. I have the information backed up, even though I was told to remove it from my machine and put in cold room. 
+
+####Rio Das Pedras
+* Incorporated home data shifts (4 corrections) from Garazi. 
+* Need to incorporate 1 hour gap in time issue. 
+* Need to create and deliver mapping component of summer time estimate. [Summer Time Estimate Link](https://github.com/nygeog/beh_public/blob/master/rio/docs/201506_summer_time_estimate/rdp_summer_2015_time_estimate.pdf)
+* Need to assign points to street segments (see hours on summer time estimate). 
+
+####Admin
+* Need to fill out a bunch of more forms to get paid for using paid CartoDB account.  
+* Sounds like I won't be able to pay for March. 
 
 ##2015-08-11 GIS Call
 
