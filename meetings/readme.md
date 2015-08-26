@@ -3,10 +3,10 @@
 605 475-6700
 
 
-##2015-09-01 BEH Meeting
+##2015-09-XX BEH Meeting
 
 ###Projects:
-####Resistome
+####Resistome (RISE)
 * Completed Geocoding for Subjects and Restaurants
 * Construced the following neighborhood definitions:
 	* Buffers
@@ -26,7 +26,10 @@
  
 * To Do: 
 	* Maybe Update Slaughterhouses data - geocoding NYS Ag and Market data. Used Quinn 2009 version. 
-	* Maybe update Census data to more current ACS? used 2008-2012 
+	* Maybe update Census data to more current ACS? used 2008-2012, maybe us 2009-2013? 
+	* Variables in [Time Estimate](https://github.com/nygeog/beh_public/blob/master/resistome/docs/time_estimate/rise_time_estimate_20150715.pdf) to add
+		* Medical
+		* Educational  
  
 ####Robin Hood
 
@@ -36,6 +39,8 @@
 
 ####Fragile Families
 The last time I used the cold room, Abhishek had setup a Fragile Families user login on Windows. Since going down there, it appears there is a Windows Disk Mounting password that I've never seen before. I've been communicating with Michael Weisner and as of last correspondence he cannot mount the disk. I have the information backed up, even though I was told to remove it from my machine and put in cold room. 
+
+Data is basically ready to go. I'm just waiting on the idnum file in the cold room or I could use my own. 
 
 ####Rio Das Pedras
 * Incorporated home data shifts (4 corrections) from Garazi. 
