@@ -27,7 +27,7 @@
 * To Do: 
 	* Maybe Update Slaughterhouses data - geocoding NYS Ag and Market data. Used Quinn 2009 version. 
 	* Maybe update Census data to more current ACS? used 2008-2012, maybe us 2009-2013? 
-	* Variables in [Time Estimate](https://github.com/nygeog/beh_public/blob/master/resistome/docs/time_estimate/rise_time_estimate_20150715.pdf) to add
+	* Variables in [Time Estimate](https://github.com/nygeog/beh_public/blob/master/resistome/docs/time_estimate/rise_time_estimate_20150715.pdf) Added.
 		* Medical
 		* Educational  
  
