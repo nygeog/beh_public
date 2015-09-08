@@ -74,7 +74,7 @@ Data is basically ready to go. I'm just waiting on the idnum file in the cold ro
 <a name="rdp"></a>
 ####Rio Das Pedras
 * Incorporated home data shifts (4 corrections) from Garazi. 
-* Need to incorporate 1 hour gap in time issue. 
+* Came up with 2nd time in rdp variable based on each recorded point as a measure of the epoch. 
 * Need to create and deliver mapping component of summer time estimate. [Summer Time Estimate Link](https://github.com/nygeog/beh_public/blob/master/rio/docs/201506_summer_time_estimate/rdp_summer_2015_time_estimate.pdf)
 * Need to assign points to street segments (see hours on summer time estimate). 
 
