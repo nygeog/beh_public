@@ -3,9 +3,18 @@
 605 475-6700
 
 
-##2015-09-XX BEH Meeting
+##2015-09-08 BEH Meeting
 
 ###Projects:
+* [Resistome (RISE)](#rise)
+* [Rio Das Pedras](#rdp)
+* [Robin Hood](#robin_hood)
+* [Fragile Families](#ff)
+* [GIS Data Portal](#data_portal)
+* [Admin](#admin)
+
+
+<a name="rise"></a>
 ####Resistome (RISE)
 * Completed Geocoding for Subjects and Restaurants
 * Construced the following neighborhood definitions:
@@ -27,12 +36,9 @@
 * To Do: 
 	* Maybe Update Slaughterhouses data - geocoding NYS Ag and Market data. Used Quinn 2009 version. 
 	* Maybe update Census data to more current ACS? used 2008-2012, maybe us 2009-2013? 
-<<<<<<< Updated upstream
 	* Variables in [Time Estimate](https://github.com/nygeog/beh_public/blob/master/resistome/docs/time_estimate/rise_time_estimate_20150715.pdf) Added.
-		* Medical
-=======
 	* Just Completed:
->>>>>>> Stashed changes
+
 		* Educational  
 			* Copied Schools from NAAS project input
 				* BEH Schools, includes Charter
@@ -52,27 +58,48 @@
 				
 				
 
- 
+<a name="robin_hood"></a>
 ####Robin Hood
 
 * Finished 2nd Round of Robin Hood geocoding and added corrected 1st round from surveys. 
 
 * I noticed from the 1st round updates from Matt Maury a note in the spreadsheet caught me eye. "Address doesn't come up on google maps." There was some back and forth emails and Kathy mentioned using: beenVerified and Intellius. Are these services approved by the IRB? If so, and they use the Google Maps API for geocoding or verifying addresses, do these services then violate the IRB? 
 
+<a name="ff"></a>
 ####Fragile Families
 The last time I used the cold room, Abhishek had setup a Fragile Families user login on Windows. Since going down there, it appears there is a Windows Disk Mounting password that I've never seen before. I've been communicating with Michael Weisner and as of last correspondence he cannot mount the disk. I have the information backed up, even though I was told to remove it from my machine and put in cold room. 
 
 Data is basically ready to go. I'm just waiting on the idnum file in the cold room or I could use my own. 
 
+<a name="rdp"></a>
 ####Rio Das Pedras
 * Incorporated home data shifts (4 corrections) from Garazi. 
 * Need to incorporate 1 hour gap in time issue. 
 * Need to create and deliver mapping component of summer time estimate. [Summer Time Estimate Link](https://github.com/nygeog/beh_public/blob/master/rio/docs/201506_summer_time_estimate/rdp_summer_2015_time_estimate.pdf)
 * Need to assign points to street segments (see hours on summer time estimate). 
 
+<a name="admin"></a>
 ####Admin
 * Need to fill out a bunch of more forms to get paid for using paid CartoDB account.  
 * Sounds like I won't be able to pay for March. 
+
+
+<a name="data_portal"></a>
+####Data Portal
+
+Michael Wisener Notes:
+
+* The module to use the map tool on Drupal sites like the CPRC site is only available for Drupal 7 websites and the CPRC site is based on Drupal 5, so they are not compatible. 
+* CUIT can create an interactive frame on a page that would allow the users to use the tool on the CPRC site as though it were compatible, but it would require that the tool and data actually be hosted on a different website like it is now.
+
+* The web team estimated that it would be about 2-3 hours of work and CUIT charges $125 per hour so $250-$375 cost of getting the tool set up. 
+* That would not include costs of hosting the tool on another site. I know that GitLab, where it's currently hosted, is free for projects up to 10GB in size but could cost up to approximately $50-$100 per year if the non-free tier was selected.
+
+* Another alternative would be to skip creating the window and just create a link to the GitLab project, which wouldn't cost us anything as I can create that basic page on the CPRC site at any time once the tool is finished and hosted.
+
+
+
+
 
 ##2015-08-11 GIS Call
 
