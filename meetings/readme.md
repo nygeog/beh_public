@@ -27,9 +27,31 @@
 * To Do: 
 	* Maybe Update Slaughterhouses data - geocoding NYS Ag and Market data. Used Quinn 2009 version. 
 	* Maybe update Census data to more current ACS? used 2008-2012, maybe us 2009-2013? 
+<<<<<<< Updated upstream
 	* Variables in [Time Estimate](https://github.com/nygeog/beh_public/blob/master/resistome/docs/time_estimate/rise_time_estimate_20150715.pdf) Added.
 		* Medical
+=======
+	* Just Completed:
+>>>>>>> Stashed changes
 		* Educational  
+			* Copied Schools from NAAS project input
+				* BEH Schools, includes Charter
+				* NYC Schools, does not include Charter 
+			* Headstart - geocode
+				* Hs_CenterList_2015_06_05_
+		* Medical
+			* Hospitals 
+				* used NYS NYS Medical Facilities Map  
+			* NETS for some types
+				* NETS here on Echo 
+					* /Volumes/Echo/GIS/projects/nets/data/nets.gdb   
+				
+	* To Do:
+		* Variables in [Time Estimate](https://github.com/nygeog/beh_public/blob/master/resistome/docs/time_estimate/rise_time_estimate_20150715.pdf) to add
+			* ALL DONE
+				
+				
+
  
 ####Robin Hood
 
