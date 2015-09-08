@@ -3,6 +3,13 @@
 605 475-6700
 
 
+Gina will talk w/ Julien, about PRINCETON/FF GROUP to discuss idnum (private), idnum (public), geoid.
+
+Water samples, for RdP. Mapping
+
+9:30 am GIS Meeting Wednesday.
+
+
 ##2015-09-08 BEH Meeting
 
 ###Projects:
