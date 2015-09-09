@@ -1,0 +1,42 @@
+CHANGE CARTODB Username, 
+
+beh-gis
+
+
+AUGUST MEETING. 
+
+ROBIN HOOD
+
+
+RISE 
+
+
+
+Hosptial admissions
+
+SPARKS 2014 - SPARKS ZIP Codes
+
+a1c
+
+NYU
+
+
+NYU Women's Health Study:
+
+Create Walkability Measure for circa 1990.
+using NETS, Census Data, Transit Data, Street Network Data. 
+1 km buffers around NYU participants.
+
+
+
+1 is national nets. revisiting NETS. 
+National 54 million records. 
+
+NYCHA, support some of their planning for next-gen NYCHA, systematic observations. 
+
+
+NAAS Pollen
+Time patterns by ZIP code in the SPARKS data. 
+
+
+PATS data, points outside the home address
