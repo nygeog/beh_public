@@ -2,15 +2,40 @@
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 605 475-6700
 
+##2015-09-22 BEH Meeting
 
-Gina will talk w/ Julien, about PRINCETON/FF GROUP to discuss idnum (private), idnum (public), geoid.
+Contact Parks:
+Peter Carlo & Jackie Lu
 
-Water samples, for RdP. Mapping
+RdP Maps:
+Graffiti, just show where graffiti, show disorder variables.
 
-9:30 am GIS Meeting Wednesday.
+Show what we did. Via Fulcrum app. 
 
+* I have a class at Amazon Web Services Thursday. 
+
+* CartoDB account, someone left printouts in my mailbox.
+
+
+####Driscoll
+Waiting on data
+
+####RdP 
+Could I get geotagged water sampling?
+
+Disorder Maps
+
+####Fragile Families
+Steve has data in-hand. 
 
 ##2015-09-08 BEH Meeting
+Notes:
+
+* Gina will talk w/ Julien, about PRINCETON/FF GROUP to discuss idnum (private), idnum (public), geoid.
+
+* Water samples, for RdP. Mapping
+
+* 9:30 am GIS Meeting Wednesday.
 
 ###Projects:
 * [Resistome (RISE)](#rise)
@@ -19,7 +44,6 @@ Water samples, for RdP. Mapping
 * [Fragile Families](#ff)
 * [GIS Data Portal](#data_portal)
 * [Admin](#admin)
-
 
 <a name="rise"></a>
 ####Resistome (RISE)
@@ -38,7 +62,6 @@ Water samples, for RdP. Mapping
 	* Slaughter Houses
 
 * [Data Dictionary Link](https://github.com/nygeog/beh_public/blob/master/resistome/docs/data_dictionary/resistome_data_dictionary_20150820.pdf)
- 
  
 * To Do: 
 	* Maybe Update Slaughterhouses data - geocoding NYS Ag and Market data. Used Quinn 2009 version. 
@@ -63,8 +86,6 @@ Water samples, for RdP. Mapping
 		* Variables in [Time Estimate](https://github.com/nygeog/beh_public/blob/master/resistome/docs/time_estimate/rise_time_estimate_20150715.pdf) to add
 			* ALL DONE
 				
-				
-
 <a name="robin_hood"></a>
 ####Robin Hood
 
@@ -90,7 +111,6 @@ Data is basically ready to go. I'm just waiting on the idnum file in the cold ro
 * Need to fill out a bunch of more forms to get paid for using paid CartoDB account.  
 * Sounds like I won't be able to pay for March. 
 
-
 <a name="data_portal"></a>
 ####Data Portal
 
@@ -103,9 +123,6 @@ Michael Wisener Notes:
 * That would not include costs of hosting the tool on another site. I know that GitLab, where it's currently hosted, is free for projects up to 10GB in size but could cost up to approximately $50-$100 per year if the non-free tier was selected.
 
 * Another alternative would be to skip creating the window and just create a link to the GitLab project, which wouldn't cost us anything as I can create that basic page on the CPRC site at any time once the tool is finished and hosted.
-
-
-
 
 
 ##2015-08-11 GIS Call
