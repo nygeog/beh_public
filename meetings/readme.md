@@ -3,10 +3,16 @@
 605 475-6700
 
 ##2015-10-06
-####Pats GPS data processing
+####PATs GPS data processing
 * Spent last week or so processing PATS GPS data with built environment data following the work outlined in the Driscoll project. 
 
 * Contacted Jackie Lu for parks after meeting her at GIS event. 
+
+* Way to address the points that are far from where they are in actuality. 
+
+* maybe just for blocked points dataset. 
+
+* Check RDP for strength. 
 
 ####RdP 
 * Could I get geotagged water sampling?
