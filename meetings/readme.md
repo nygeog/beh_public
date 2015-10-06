@@ -2,6 +2,16 @@
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 605 475-6700
 
+##2015-10-06
+####Pats GPS data processing
+* Spent last week or so processing PATS GPS data with built environment data following the work outlined in the Driscoll project. 
+
+* Contacted Jackie Lu for parks after meeting her at GIS event. 
+
+####RdP 
+* Could I get geotagged water sampling?
+* Disorder Maps
+
 ##2015-09-22 BEH Meeting
 
 Contact Parks:
