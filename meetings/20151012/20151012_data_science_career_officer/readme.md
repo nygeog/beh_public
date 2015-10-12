@@ -1,10 +1,10 @@
 #20151012 Data Science Career Officer Meeting
-##[Resume](https://github.com/nygeog/beh_public/blob/master/meetings/20151012/20151012_data_science_career_officer/daniel_martin_sheehan_resume_20151008.pdf)
+###[Resume](https://github.com/nygeog/beh_public/blob/master/meetings/20151012/20151012_data_science_career_officer/daniel_martin_sheehan_resume_20151008.pdf)
 
-##[Personal Professional Website/Blog](http://nygeog.github.io/)
+###[Personal Professional Website/Blog](http://nygeog.github.io/)
 
-##Companies
-###Geospatially oriented
+###Companies
+#####Geospatially oriented
 
 * [CartoDB](https://cartodb.com/)
 	* [Jobs - Community Outreach, Engineer, Data Scientist - applied to](https://cartodb.com/jobs/) - I applied to a few jobs here last week. I'm super interested in working here, know a few employees and am getting very familiar with their javascript library and API. 
@@ -28,7 +28,7 @@
 * [Esri](http://www.esri.com/)
 	* [Careers](http://www.esri.com/careers/main/job-search) - Not super interested but could help to work for them to leverage relationships with companies that do geo but still rely on Esri. 
 	 
-###Health related
+#####Health related
 * [RunKeeper](https://runkeeper.com/home)
 	* [Jobs](https://runkeeper.com/jobs) - GPS data for running, could be very interesting analysis with active transport and outreach for running path/park policy and development. 
 * [OneMedical](http://www.onemedical.com/)
@@ -36,7 +36,7 @@
 * [ZocDoc](https://www.zocdoc.com/)
 	* [Careers](https://www.zocdoc.com/careers) 
 
-###Non-geospatial 
+#####Non-geospatial 
 * [Spotify](https://www.spotify.com)
 	* [Jobs](https://www.spotify.com/us/jobs/) - data engineer, passionate about music and data, would love to do geospatial analysis and facilitate more local artists promotion for events. 
 * [Amazon](http://www.amazon.com/)
