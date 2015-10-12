@@ -1,4 +1,7 @@
 #20151012 Data Science Career Officer Meeting
+##[Resume](https://github.com/nygeog/beh_public/blob/master/meetings/20151012/20151012_data_science_career_officer/daniel_martin_sheehan_resume_20151008.pdf)
+
+##[Personal Professional Website/Blog](http://nygeog.github.io/)
 
 ##Companies
 ###Geospatially oriented
