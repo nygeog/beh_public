@@ -1,0 +1,7 @@
+Hi,
+
+I had the attached files in my email history - may help inform geoprocessing decisions for National NETS.  Other information is in Additional File 4 from the BMC NETS methods paper (attached here too).
+
+1.3% of geocodes were for secondary addresses.  May not be worth doing, though for millions this small percentage is a large number.  We avoided using much language of primary/ secondary in the methods paper to avoid confusion.
+
+Tanya
