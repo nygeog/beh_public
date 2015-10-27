@@ -9,7 +9,7 @@ receive 2014 data in Spring 2016
 60 GB
 
 For walkability metrics.
-Create many buffers 1 km  to 5 km, and then weight using car ownership.
+Create many buffers 1 km to 5 km, and then weight using car ownership.
 
 Buffer size ratio to block size create a standard from NYC and apply nationwide
 
@@ -17,5 +17,7 @@ Block, Block Group, Tract, ZCTA, County
 
 10 am Meeting
 CABS 
+
+
 
 

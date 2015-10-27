@@ -2,6 +2,21 @@
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 605 475-6700
 
+##2015-10-27
+
+####Possible projects:
+Vital Stats - NYC - prenatal and birth weight of Mom's. W/ addresses of Mom's. 120,000 births per year. 2008, 2009 pregnancies. Track kids into fitnessgram (2015). Outcome childhood obestiy. Link across pregnancies, for time series of women (with pregnancies). Robin Hood. 
+
+####PATs points
+Check joins on GPS points and accelormeter. 
+
+####NETS
+Check with Tanya if Primary_Address == missing, if in latest version of NETS, was populated with Secondary_Address. And whether our Secondary address geocoded percentage includes the "carry-over from Secondary to populate Primary Address" counts towards that 1.3%. 
+
+Check to see what I sent Tanya gyms or all NETS attribtuted to NETS. 
+**UPDATE** just sent her intersects for PA venues. 
+
+
 ##2015-10-06
 ####PATs GPS data processing
 * Spent last week or so processing PATS GPS data with built environment data following the work outlined in the Driscoll project. 
