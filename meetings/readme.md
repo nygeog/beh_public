@@ -4,6 +4,16 @@
 
 
 ##2015-11-10
+Look into price for running NETS in the cloud AWS or OpenCloud. 
+
+Luchsinger: 
+
+* 4 small projects, geocoded and metrics. 
+* 5 weeks worth of salary support. 
+* Spreadsheet w/ subset of Time Estimate work plan. 
+
+NYC DOH or is it DOE has geocoded prenatal address. To Census Layer. 
+
 ###DOH-GPS
 * Wrapped up GPS Points processing, sent Andrew draft data dictionary for review. 
 	* Please review this data dictionary:
