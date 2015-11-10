@@ -4,9 +4,58 @@
 
 
 ##2015-11-10
+###DOH-GPS
 * Wrapped up GPS Points processing, sent Andrew draft data dictionary for review. 
+	* Please review this data dictionary:
+		* If there’s variables you don’t need that are in the dictionary, let me know which those are. I can drop them to help bring our file size down. 
+		
+		* Please check the accel. and other variables (page 8). I had the data in my source GPS point files and I'm not certain what accelorometry variables you specifically use. Do I even need to join other vars for accel. data? (If so let me know what the variable names are)
+		
+		* Are dualactivity (GPS Points) and dualaxis (Blocked Points) the same variable? One is only in the GPS points dataset, the other is only in the Blocked points dataset.
+			* dualaxis defintion from GeoStats documentation:
+				* Aggregate acceleration data on horizontal (x) axis and vertical (y) axis assigned to the minute in which the gps point falls
+
 * The most recent wave of NYCCAS data does not have any data dictionaries. 35+ variables. 
 
+###Data Portal
+
+> Yes it is a regular iframe to my understanding, but unfortunately we don't have any access to the drupal framework which is why CUIT has to be involved. It's annoying but an unfortunate reality at this time, as CUIT does not provide access to the drupal framework to any of their website users.
+
+> As for the mapping interface, I know it doesn't need a server but it would need a page to host the application that the iframe would connect to, no? I see you suggest GitHub/Dropbox/Cunix/etc later on. I think any of those would be fine, although the free options are probably ideal. If we put it inside Cunix, though, we'd just want to work with CUIT to make sure we can get a space outside of any user's home directory, which shouldn't be hard.
+
+> It's possible to request a URL through CUIT, we just need approval. I don't think the URL is a huge issue, though? They don't charge for URL redirecting so it shouldn't be an issue.
+
+> As for the iframe, again we'll need CUIT, unfortunately. Julien already mentioned that the CPRC should be able to help with CUIT costs, so I think we shouldn't worry there.
+
+#####My questions/response
+
+* Is the interactive frame a regular iframe (inline frame)? 
+	* If so, that cost estimate is seems extremely high. It’s only setting up a new page and adding 1 line of html. I embedded the current site in an iframe in 5 minutes. http://beh-gis.github.io/testing/cprc/index.html (CPRC layout with current page in an iFrame). 
+	* Some of the drawbacks of the iframe involve javascript and ‘loading unsafe scripts’ errors and perhaps cookies. Its not a good practice for accessibility.  
+	* At the very worst, this frame could be insertFrame in Drupal, which seems about as complicated as an iFrame https://www.drupal.org/project/insertframe
+* The mapping interface doesn’t require a web server, most of the functionality is in the javascript (so its contained to the client’s browser). So there is no hosting for the tool required. This is one of the benefits of using the system as was developed. The only things that need hosting is the data and html/javascript/css files.
+* If a unique domain is purchased, masking could give it whatever url is available and purchased. Or CPRC could allow a subdomain redirect. 
+* The web pages/javascript storage is fairly insignificant and could be hosted anywhere.  
+	* GitHub pages (free) 
+	* Dropbox public folder (paid)
+	* Any commercial web hosting (paid)
+	* CUNIX (free). Files would be managed using Cyberduck or some FTP client. 
+* The data could be hosted via CartoDB or PostGIS on Amazon Web Services. My plan is to migrate the data and the CartoCSS to a new CartoDB account. This doesn’t require any work on the Drupal-side. 
+
+**Solution(s).** 
+So long as someone at CPRC has Drupal CMS rights to create a new page with a frame inline or we could link out. CUIT likely doesn’t need to be involved. 
+
+* Interactive Frame
+	* I think we could try to do it in an iframe or insertFrame on our own w/out CUIT - it’d just be in a new page on the website which I’m sure the vanilla Drupal CMS can allow. 
+	* This should work, but we’d want to test access from multiple browsers and versions for accessibility. 
+		* Does CPRC have any plan of going https? If not, that is good for this solution as https, might not allow our map to load from a different url root.
+	* Again, could look something like this: http://beh-gis.github.io/testing/cprc/index.html with some changes to the styling and extent to fit the constraints of the CPRC frame. 
+
+* Or if that doesn’t work, create the full link to jump to a new page. I think we can get the ‘interactive frame’ working without paying CUIT. 
+
+###NETS
+#####NETS storage and processing options
+![nets national](https://raw.githubusercontent.com/nygeog/beh_public/master/meetings/20151027/nets-national-workflow-data-storage.png)
 
 
 
