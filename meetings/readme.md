@@ -2,6 +2,14 @@
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 605 475-6700
 
+
+##2015-11-10
+* Wrapped up GPS Points processing, sent Andrew draft data dictionary for review. 
+* The most recent wave of NYCCAS data does not have any data dictionaries. 35+ variables. 
+
+
+
+
 ##2015-10-27
 
 ####Possible projects:
