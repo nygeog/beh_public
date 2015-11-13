@@ -6,3 +6,24 @@ beh-2015
 
 Master database on RDS
 Windows instance (install ArcGIS, R, Stata on). 
+
+EMR distribute ddata store that allows ot run data store tha tallows jobs to be run faster in parallel
+
+
+revolution R, enterpsirs R, and they have a virtual appliance. 
+
+python would be submitting a job, 
+
+python libary to map reduce jobs
+
+RedShift, run postgis on that. 
+
+Revolutino R Appliance, AWS marketplace on EMR. 
+
+
+Python on EMR, lookup.
+
+MPP databases
+
+what type of instance, model, S3
+
