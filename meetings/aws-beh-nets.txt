@@ -1,0 +1,8 @@
+cumc email address
+beh-2015
+
+55 GB data, maybe like a 1 TB directory on EC2 or S3 or something
+
+
+Master database on RDS
+Windows instance (install ArcGIS, R, Stata on). 
