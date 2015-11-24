@@ -2,6 +2,36 @@
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 605 475-6700
 
+##2015-11-24
+
+###PATS GPS points
+
+Andrews email:
+
+	I am not sure I understand the utility of the _nr_angle variables, also I am not sure we need the_nr_dist variables for park features.   lets talk about these on our next Tuesday meeting. 
+	 
+	There are variables that tell us if each acc minute is a sedentary, light, moderate or vigorous intensity activity, are these data in the file, and is the accelerometer count data in there for each acc monitoring minute in there too – is that dualaxis and thirdaxis? 
+	 
+	I don’t really trust the SPEED data, we can drop that.
+	 
+	On the air pollution data lets hold on this, I realized that we can adjust the air pollution data and estimate air pollution for each day.  I need to figure out if that is something you should do during geoprocessing or I can do afterwards – I need to talk to Perzanowski about this.  But the PAT data were collected August through November 2010 and March through November 2011, so we need to make sure you are using the NYCCAS data that corresponds to these time points only.  Lets take the pollution data out for now.  
+	 
+	Can you add…
+	The % poverty, median household income, % black and % Hispanic for the tract each point falls in.  
+	 
+	Also can you add the 2010 Walkability score for each block a point falls in and the accompanying Z-score for the 5 components of the walkability score?    
+	 
+	Can you add a variable that is coded as 1 if the point is within 1Km radius of the home?
+	Can you add a variable that is coded as 1 if the point is within 1Km radius of the work?
+
+
+###COHD
+1400sh n (dups and missing) geocoding
+
+ACS Data (tract, 1Km)
+Walkability 2010 1 Km around Block – just do merge with the subject Block and the 2010 block level walkability measure, so no new geoprocessing.
+Park access (Tract and 1Km)
+Food Envi – can you use NETS for the appropriate years?
 
 ##2015-11-10
 Look into price for running NETS in the cloud AWS or OpenCloud. 
