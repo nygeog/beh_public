@@ -18,11 +18,31 @@ Andrews email:
 	 
 	Can you add…
 	The % poverty, median household income, % black and % Hispanic for the tract each point falls in.  
+	
+Maybe I should just do all census geographies. 
+	
 	 
 	Also can you add the 2010 Walkability score for each block a point falls in and the accompanying Z-score for the 5 components of the walkability score?    
 	 
 	Can you add a variable that is coded as 1 if the point is within 1Km radius of the home?
 	Can you add a variable that is coded as 1 if the point is within 1Km radius of the work?
+
+Other ideas:
+Steve's disorder. - also to blocks
+pct Tree Canopy. - to blocks
+Distance to Subway. (subway entrances...)
+Homicides. - to blocks
+Accidents. - characterize blocks 
+Disorder. - characterize to blocks
+Census Variables:
+Daytime population (ACS) - also characterize to blocks
+Esri Crime Risk to points. - also characterize blocks 
+
+NETS - distance to nearest gyms. 1 km near search radius. 
+
+Get rid of angle variable for all distance variables.
+
+
 
 
 ###COHD
