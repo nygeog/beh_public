@@ -2,6 +2,20 @@
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 605 475-6700
 
+##2015-12-08
+
+* Benjamin Liebowohl
+
+Send crosswalk and data dictionary
+
+Send crosswalk table
+
+
+
+* Research Gate - requests
+
+* Geocoding 4500 
+
 ##2015-11-24
 
 ###PATS GPS points
