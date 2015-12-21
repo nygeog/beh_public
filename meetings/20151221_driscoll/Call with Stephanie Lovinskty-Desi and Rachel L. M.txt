@@ -1,0 +1,26 @@
+Call with Stephanie Lovinskty-Desi and Rachel L. Miller
+
+GPS data and acceloremetry data. 
+
+We'll check out the GPS data.
+
+where moderate to vig. activity occur. 
+
+How do points vary in a moderate bout, do they go back and forth b/n moderate and light rapidly, or is a bout consist of a stream of points. 
+
+a bout of vig. activity is actualy 10 mins
+
+60 mins (?) a day 
+
+6 days of accel
+
+overlap w/ gps is 2, 24-hour periods. 
+
+in 2 days all the points w moderate or vigours. 
+
+timestamp, count, and has a mod/vig file., col. for epoch.
+
+min by min. 
+
+clean headers of excel file. 
+
