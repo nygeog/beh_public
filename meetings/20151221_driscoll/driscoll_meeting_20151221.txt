@@ -1,1 +1,26 @@
 driscoll meeting 20151221
+
+Lori - GPS, and accel files, request from Lori. 
+
+Get the raw data. 
+
+Day 0, field particlenat went to homes, put vest with GPS and accel (GPS and accel)
+Day 1, vest comes off, wrist accel comes off, restart and put back on. (accel, stays on til day 6)
+
+Day 5, back to home, put vest of kid, and get another GPS for 24 hours. 
+
+2 GPS files for each child. 
+
+
+2nd accel data will have 6 days. 
+
+Year data was collected. 4-5 years ago. 
+
+161 people. 
+
+Clean for like 140 people. 2 * 160. 
+
+James, 
+
+
+SEND PATS data dictionary to Steph. maybe RDP data dictionary. 
