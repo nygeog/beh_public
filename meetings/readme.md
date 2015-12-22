@@ -2,6 +2,13 @@
 -----#####Meetings from 2014-07-02 -> 2015* 9-1 (605) 475-6700 (372835) - code 169-6028
 605 475-6700
 
+##2015-12-22
+
+RdP idea - Create convex hulls after creating kernel densities
+
+incorporate time_dif 
+
+
 ##2015-12-08
 
 * Benjamin Liebowohl
